@@ -1,0 +1,5 @@
+2020-07-15 13:32:53.6720|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|254|0001:UIAutomation|1.0.0.0|1||开始执行测试 
+2020-07-15 13:35:08.4349|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|262|0001:UIAutomation|1.0.0.0|1||结束执行测试 
+2020-07-15 13:35:09.1494|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|254|0001:UIAutomation|1.0.0.0|1||开始执行测试 
+2020-07-15 13:36:39.8687|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|262|0001:UIAutomation|1.0.0.0|1||结束执行测试 
+2020-07-15 13:36:41.9732|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|254|0001:UIAutomation|1.0.0.0|1||开始执行测试 

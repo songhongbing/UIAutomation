@@ -1,0 +1,93 @@
+Log file created at: 2020/07/03 12:01:15
+Running on machine: DESKTOP-TDHUO65
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0703 12:01:15.446529 23072 cpptime.cpp:20] Timer inited 
+I0703 12:01:15.450528 13564 cpptime.cpp:96] Timer thread started..
+I0703 12:01:15.450528 25684 RenderUnigine.cpp:547] RenderMainLoop starting...
+I0703 12:01:15.911527 25684 AppNodeData.h:33] AppNodeData created
+I0703 12:01:15.931557 23072 GrpcService.cpp:27] GrpcServiceMainLoop started.
+I0703 12:01:15.931557 23072 RenderUnigine.cpp:605] waitRenderThread ...
+I0703 12:01:15.931557 18436 RenderUnigine.cpp:683] TimeFunc thread entered...
+I0703 12:01:15.935528 11664 GrpcService.cpp:49] Grpc Thread : Server listening on 0.0.0.0:50051
+I0703 12:01:53.966847 17200 ViDirectorPreivewServiceImpl.h:34] viDirectorPreview in
+I0703 12:02:11.563848 25428 WorldServiceImpl.h:33] getWorlds in
+I0703 12:02:11.563848 25428 RenderUnigineLogic.cpp:291] findWorldFiles ...
+E0703 12:02:11.564848 25428 util_file.cpp:21] can not open the path: ../data/
+I0703 12:02:11.565850 25428 RenderUnigineLogic.cpp:303] findWorldFiles failed:../data/
+E0703 12:02:11.565850 25428 util_file.cpp:21] can not open the path: ../../data/
+I0703 12:02:11.565850 25428 RenderUnigineLogic.cpp:308] findWorldFiles failed:../../data/
+I0703 12:02:11.566846 25428 RenderUnigineLogic.cpp:333] findWorldFiles done!:../../../data/,1
+I0703 12:02:11.568846 25428 WorldServiceImpl.h:64] getWorlds out
+I0703 12:02:13.252846  2248 WorldServiceImpl.h:72] loadWorld in
+I0703 12:02:17.087846 25684 AppNodeData.h:276] Total 146 nodes
+I0703 12:02:17.089846 25684 AppNodeData.h:288] Node load finish ..
+I0703 12:02:17.091845  2248 WorldServiceImpl.h:81] loadWorld out
+I0703 12:02:17.126847 25428 NodeServiceImpl.h:56] getNodes in
+I0703 12:02:17.153847  2248 NodeServiceImpl.h:213] getMaterilas in
+I0703 12:02:17.158847 25428 NodeServiceImpl.h:231] getTracklessMaterials in
+I0703 12:02:17.158847 25428 NodeServiceImpl.h:243] getTracklessMaterials out
+I0703 12:02:17.163849  2248 NodeServiceImpl.h:143] getWorldPlayers in
+I0703 12:02:17.236846 25684 AppRenderData.h:73] createScreen guid c9ee7b9ba57b1f2ab4d7914e3dc457a36cc2e787
+E0703 12:02:17.239845 25684 AppRenderSharedTexture.h:95] GetSharedHandle 0000000040002D42
+E0703 12:02:17.239845 25684 AppRenderSharedTexture2.h:102] GetSharedHandle 0000000080001842
+E0703 12:02:17.245846 25684 AppRenderSharedTexture2.h:102] GetSharedHandle 0000000040004042
+I0703 12:02:17.250847 25684 AppRenderData.h:75] createScreen ok 
+I0703 12:02:17.250847 25684 AppRenderData.h:73] createScreen guid d4f05e51af5ee63646bdc637db029af4bccca25b
+E0703 12:02:17.253845 25684 AppRenderSharedTexture.h:95] GetSharedHandle 0000000080002102
+E0703 12:02:17.254848 25684 AppRenderSharedTexture2.h:102] GetSharedHandle 00000000C0001782
+E0703 12:02:17.259845 25684 AppRenderSharedTexture2.h:102] GetSharedHandle 0000000080003282
+I0703 12:02:17.264848 25684 AppRenderData.h:75] createScreen ok 
+I0703 12:02:17.264848 25684 AppRenderData.h:73] createScreen guid 1e0aca9ccd7cd195303ef6b66362d5d4632d0314
+E0703 12:02:17.267845 25684 AppRenderSharedTexture.h:95] GetSharedHandle 0000000040002042
+E0703 12:02:17.267845 25684 AppRenderSharedTexture2.h:102] GetSharedHandle 0000000080002002
+E0703 12:02:17.273846 25684 AppRenderSharedTexture2.h:102] GetSharedHandle 0000000080003802
+I0703 12:02:17.277845 25684 AppRenderData.h:75] createScreen ok 
+I0703 12:02:17.277845 25684 AppRenderData.h:73] createScreen guid ac0527978d175fd8b0da67b321cc7f4c5d22d93a
+E0703 12:02:17.280846 25684 AppRenderSharedTexture.h:95] GetSharedHandle 0000000080003882
+E0703 12:02:17.281846 25684 AppRenderSharedTexture2.h:102] GetSharedHandle 00000000800008C2
+E0703 12:02:17.286847 25684 AppRenderSharedTexture2.h:102] GetSharedHandle 0000000040000A42
+I0703 12:02:17.291846 25684 AppRenderData.h:75] createScreen ok 
+I0703 12:02:17.291846 25684 AppRenderData.h:73] createScreen guid vibox_dynamic_screen_plane
+E0703 12:02:17.294844 25684 AppRenderSharedTexture.h:95] GetSharedHandle 00000000C0002C42
+E0703 12:02:17.294844 25684 AppRenderSharedTexture2.h:102] GetSharedHandle 0000000080004602
+E0703 12:02:17.300846 25684 AppRenderSharedTexture2.h:102] GetSharedHandle 0000000080001AC2
+I0703 12:02:17.304844 25684 AppRenderData.h:75] createScreen ok 
+I0703 12:02:17.305847 25684 AppRenderData.h:73] createScreen guid vibox_gui_bluebox_screen_plane
+E0703 12:02:17.307845 25684 AppRenderSharedTexture.h:95] GetSharedHandle 0000000040001C02
+E0703 12:02:17.308845 25684 AppRenderSharedTexture2.h:102] GetSharedHandle 0000000080004342
+E0703 12:02:17.313846 25684 AppRenderSharedTexture2.h:102] GetSharedHandle 00000000800033C2
+I0703 12:02:17.318845 25684 AppRenderData.h:75] createScreen ok 
+I0703 12:02:17.318845 25684 AppRenderData.h:73] createScreen guid vibox_gui_screen_plane
+E0703 12:02:17.321846 25684 AppRenderSharedTexture.h:95] GetSharedHandle 00000000C0001A82
+E0703 12:02:17.321846 25684 AppRenderSharedTexture2.h:102] GetSharedHandle 0000000080002882
+E0703 12:02:17.327847 25684 AppRenderSharedTexture2.h:102] GetSharedHandle 0000000080002E02
+I0703 12:02:17.332845 25684 AppRenderData.h:75] createScreen ok 
+I0703 12:02:17.332845 25684 AppRenderData.h:73] createScreen guid vibox_GPU_preview_screen
+E0703 12:02:17.334846 25684 AppRenderSharedTexture.h:95] GetSharedHandle 00000000C0001502
+E0703 12:02:17.335846 25684 AppRenderSharedTexture2.h:102] GetSharedHandle 00000000C0003D42
+E0703 12:02:17.340845 25684 AppRenderSharedTexture2.h:102] GetSharedHandle 0000000040003E02
+I0703 12:02:17.345847 25684 AppRenderData.h:75] createScreen ok 
+I0703 12:02:19.362846 25428 CameraServiceImpl.h:52] addCamera in
+I0703 12:02:19.362846 25428 CameraServiceImpl.h:98] addCamera out
+I0703 12:02:19.374847  2248 ViDirectorServiceImpl.h:215] enginePreview in
+I0703 12:02:28.481848 25428 TrackerSeriviceImpl.h:123] getTrackerProtocols in
+I0703 12:02:28.481848 25428 TrackerSeriviceImpl.h:139] getTrackerProtocols Out
+I0703 12:02:28.507848 25428 SwitcherServiceImpl.h:68] getSwitcherPorts in
+I0703 12:02:28.507848 25428 SwitcherServiceImpl.h:90] getSwitcherPorts Out
+I0703 12:02:28.518849 25428 TrackerSeriviceImpl.h:64] getTrackerPorts in
+I0703 12:02:28.518849 25428 TrackerSeriviceImpl.h:87] getTrackerPorts Out
+I0703 12:02:28.519847 25428 TrackerSeriviceImpl.h:95] getTrackerLensFiles in
+I0703 12:02:28.519847 25428 TrackerSeriviceImpl.h:115] getTrackerLensFiles Out
+I0703 12:02:28.525846 25428 SDIServiceImpl.h:192] getFormatTypes in
+I0703 12:02:28.525846 25428 SDIServiceImpl.h:222] getFormatTypes out
+I0703 12:02:28.525846 19708 SDIServiceImpl.h:79] getCards in
+I0703 12:02:28.526847 19708 SDIServiceImpl.h:161] getCards out
+I0703 12:02:37.301846 19708 SDIServiceImpl.h:396] initPreCard in
+E0703 12:02:47.169847 19708 DecklinkGPU.cpp:154] DeckLink Card count 0 sdi index 0
+E0703 12:02:47.169847 19708 AppRenderScreen.h:360] guid not found: 
+I0703 12:02:47.169847 19708 CardMgr.cpp:69] startCapture card size 1
+I0703 12:02:47.170846 19708 Cardbase.cpp:378] sdi:0registered
+I0703 12:02:47.170846 19708 SDIServiceImpl.h:490] initPreCard out
+I0703 12:02:55.456845 19708 SDIServiceImpl.h:396] initPreCard in
+E0703 12:02:55.530846 19708 AppRenderScreen.h:360] guid not found: 
+I0703 12:02:55.530846 19708 CardMgr.cpp:69] startCapture card size 2

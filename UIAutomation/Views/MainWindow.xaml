@@ -1,0 +1,23 @@
+﻿<Window x:Class="Tool.Views.MainWindow"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity" 
+             xmlns:prism="http://prismlibrary.com/"             
+             x:Name="win" 
+             Icon="/UIAutomation;component/Resources/Images/Ico/logo.ico"
+             WindowStartupLocation="CenterScreen"
+             prism:ViewModelLocator.AutoWireViewModel="True"
+             Closing="win_Closing"
+             Title="UI自动化测试"
+             Height="600" Width="1000" >
+    <i:Interaction.Triggers>
+        <i:EventTrigger EventName="Loaded">
+            <i:InvokeCommandAction Command="{Binding LoadBindCommand}" CommandParameter="{Binding ElementName=win}"/>
+        </i:EventTrigger>
+    </i:Interaction.Triggers>
+    <Window.Resources> 
+    </Window.Resources>
+    <Grid>
+        <ContentControl Width="{Binding ActualWidth,ElementName=win,Mode=OneWay}"  Height="{Binding ActualHeight,ElementName=win,Mode=OneWay}" prism:RegionManager.RegionName="ContentRegion"/>
+     </Grid> 
+</Window>

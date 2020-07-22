@@ -1,0 +1,18 @@
+2020-06-23 15:27:04.9947|ERROR|AutomationFactory|UIAutomation.Common.AutomationFactory.TextBox_Automation_Task|133|0001:UIAutomation|1.0.0.0|14||执行ListBox自动化任务 System.Windows.Automation.ElementNotAvailableException: 无法识别的错误。
+   at MS.Internal.Automation.UiaCoreApi.CheckError(Int32 hr)
+   at System.Windows.Automation.ValuePattern.SetValue(String value)
+   at UIAutomation.Common.AutomationHelper.SetValueToValuePattern(AutomationElement element, String value) in D:\testspace\UIAutomation\UIAutomation\Common\AutomationHelper.cs:line 98
+   at UIAutomation.Common.AutomationFactory.TextBox_Automation_Task(AutomationElement automationElement, AutomationModel automationModel) in D:\testspace\UIAutomation\UIAutomation\Common\AutomationFactory.cs:line 133
+2020-06-23 15:27:09.1874|ERROR|AutomationFactory|UIAutomation.Common.AutomationFactory.Button_Automation_Task|87|0001:UIAutomation|1.0.0.0|14||执行Button自动化任务 System.Exception: Element with AutomationId 'tb_IsUseSDI' and Name '' does not support the WindowPattern.
+   at UIAutomation.Common.AutomationHelper.GetInvokePattern(AutomationElement element) in D:\testspace\UIAutomation\UIAutomation\Common\AutomationHelper.cs:line 138
+   at UIAutomation.Common.AutomationFactory.Button_Automation_Task(AutomationElement automationElement, AutomationModel automationModel) in D:\testspace\UIAutomation\UIAutomation\Common\AutomationFactory.cs:line 87
+2020-06-23 15:35:38.8708|ERROR|AutomationFactory|UIAutomation.Common.AutomationFactory.TextBox_Automation_Task|137|0001:UIAutomation|1.0.0.0|12||执行ListBox自动化任务 System.Windows.Automation.ElementNotAvailableException: 无法识别的错误。
+   at MS.Internal.Automation.UiaCoreApi.CheckError(Int32 hr)
+   at System.Windows.Automation.ValuePattern.SetValue(String value)
+   at UIAutomation.Common.AutomationHelper.SetValueToValuePattern(AutomationElement element, String value) in D:\testspace\UIAutomation\UIAutomation\Common\AutomationHelper.cs:line 98
+   at UIAutomation.Common.AutomationFactory.TextBox_Automation_Task(AutomationElement automationElement, AutomationModel automationModel) in D:\testspace\UIAutomation\UIAutomation\Common\AutomationFactory.cs:line 137
+2020-06-23 15:39:06.3002|ERROR|AutomationFactory|UIAutomation.Common.AutomationFactory.TextBox_Automation_Task|137|0001:UIAutomation|1.0.0.0|12||执行ListBox自动化任务 System.Windows.Automation.ElementNotAvailableException: 无法识别的错误。
+   at MS.Internal.Automation.UiaCoreApi.CheckError(Int32 hr)
+   at System.Windows.Automation.ValuePattern.SetValue(String value)
+   at UIAutomation.Common.AutomationHelper.SetValueToValuePattern(AutomationElement element, String value) in D:\testspace\UIAutomation\UIAutomation\Common\AutomationHelper.cs:line 98
+   at UIAutomation.Common.AutomationFactory.TextBox_Automation_Task(AutomationElement automationElement, AutomationModel automationModel) in D:\testspace\UIAutomation\UIAutomation\Common\AutomationFactory.cs:line 137

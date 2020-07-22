@@ -1,0 +1,46 @@
+Log file created at: 2020/07/03 11:59:15
+Running on machine: DESKTOP-TDHUO65
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0703 11:59:15.008807 19644 cpptime.cpp:20] Timer inited 
+I0703 11:59:15.011778 26520 cpptime.cpp:96] Timer thread started..
+I0703 11:59:15.011778 24580 RenderUnigine.cpp:547] RenderMainLoop starting...
+I0703 11:59:15.485777 24580 AppNodeData.h:33] AppNodeData created
+I0703 11:59:15.506808 19644 GrpcService.cpp:27] GrpcServiceMainLoop started.
+I0703 11:59:15.506808 19644 RenderUnigine.cpp:605] waitRenderThread ...
+I0703 11:59:15.506808 24412 RenderUnigine.cpp:683] TimeFunc thread entered...
+I0703 11:59:15.511780 21556 GrpcService.cpp:49] Grpc Thread : Server listening on 0.0.0.0:50051
+I0703 12:00:06.038347 24736 ViDirectorPreivewServiceImpl.h:34] viDirectorPreview in
+I0703 12:00:22.292346 24736 ViDirectorPreivewServiceImpl.h:63] viDirectorPreview out
+I0703 12:00:39.917208 24736 ViDirectorPreivewServiceImpl.h:34] viDirectorPreview in
+I0703 12:00:48.530208 24736 ViDirectorPreivewServiceImpl.h:63] viDirectorPreview out
+I0703 12:00:51.609231 24580 RenderUnigine.cpp:576] RenderMainLoop unigine isdone() 
+I0703 12:00:51.611238 24580 RenderUnigine.cpp:578] shutdownSubject.fire()  done! 
+I0703 12:00:51.611238 24580 RenderUnigine.cpp:580] RenderMainLoop thread closed.
+I0703 12:00:51.615208 19644 RenderUnigine.cpp:611] waitRenderThread done!
+I0703 12:00:51.616209 21556 GrpcService.cpp:53] Grpc server shutdown
+I0703 12:00:51.616209 19644 GrpcService.cpp:65] GrpcService stopService.
+I0703 12:00:51.616209 19644 App.cpp:56] app run finished!0
+I0703 12:00:51.617208 19644 FacadeExtend.cpp:13] ~FacadeExtend
+I0703 12:00:51.617208 19644 TrackerMgr.cpp:23] ~TrackerMgr
+I0703 12:00:51.617208 19644 FacadeEdu.cpp:55] ~FacadeEdu
+I0703 12:00:51.622208 19644 TcpServiceMgr.cpp:11] ~TcpServiceMgr
+I0703 12:00:51.622208 19644 CountDownDelay.cpp:14] ~CountDownDelay
+I0703 12:00:51.622208 19644 AudioOutput.h:20] ~AudioOutput
+I0703 12:00:51.622208 19644 ARAnimationMgr.cpp:9] ~ARAnimationMgr
+I0703 12:00:51.622208 19644 HostBoxMgr.cpp:14] ~HostBoxMgr
+I0703 12:00:51.622208 19644 BlueboxMgr.cpp:14] ~BlueboxMgr
+I0703 12:00:51.623209 19644 ChromeKeys.cpp:8] ~ChromeKeys
+I0703 12:00:51.623209 19644 TrackerLessNodeMgr.h:45] ~TrackerLessNodeMgr
+I0703 12:00:51.623209 19644 MediaSwitcherMgr.cpp:102] ~MediaSwitcherMgr
+I0703 12:00:51.623209 19644 OutputMgr.cpp:25] ~OutputMgr
+I0703 12:00:51.623209 19644 MultimediaMgr.cpp:13] ~MultimediaMgr
+I0703 12:00:51.623209 19644 RenderUnigine.cpp:605] waitRenderThread ...
+I0703 12:00:51.623209 24412 RenderUnigine.cpp:708] TimeFunc thread finished
+I0703 12:00:51.623209 19644 RenderUnigine.cpp:611] waitRenderThread done!
+I0703 12:00:51.623209 23536 RenderUnigine.cpp:439] GrabNotifyLoop break
+I0703 12:00:51.623209 23536 RenderUnigine.cpp:468] GrabNotifyLoop close
+I0703 12:00:51.623209 19644 AppNodeData.h:37] AppNodeData released
+I0703 12:00:51.667209 19644 RenderMgr.cpp:22] ~RenderMgr
+I0703 12:00:51.667209 19644 RenderUnigine.cpp:586] ~RenderUnigine
+I0703 12:00:51.667209 19644 RenderBase.cpp:20] ~RenderBase
+I0703 12:00:51.669207 19644 Mediator.cpp:31] ~Mediator

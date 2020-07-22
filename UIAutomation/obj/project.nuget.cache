@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "BwKye2v8vxAM3ifo+KfTDe9Pm71h8E3loqB9LOpZsr1EiqSkUnP+9ygGBrEK9291VC4G6Gdctj2r369ob+bP1Q==",
+  "success": true,
+  "projectFilePath": "E:\\worker1\\UIAutomation\\UIAutomation\\UIAutomation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\7D-VISION\\.nuget\\packages\\commonservicelocator\\2.0.4\\commonservicelocator.2.0.4.nupkg.sha512",
+    "C:\\Users\\7D-VISION\\.nuget\\packages\\handycontrol\\2.5.0.2\\handycontrol.2.5.0.2.nupkg.sha512",
+    "C:\\Users\\7D-VISION\\.nuget\\packages\\hardcodet.notifyicon.wpf.netcore\\1.0.11\\hardcodet.notifyicon.wpf.netcore.1.0.11.nupkg.sha512",
+    "C:\\Users\\7D-VISION\\.nuget\\packages\\nlog\\4.7.2\\nlog.4.7.2.nupkg.sha512",
+    "C:\\Users\\7D-VISION\\.nuget\\packages\\prism.core\\7.2.0.1422\\prism.core.7.2.0.1422.nupkg.sha512",
+    "C:\\Users\\7D-VISION\\.nuget\\packages\\prism.unity\\7.2.0.1422\\prism.unity.7.2.0.1422.nupkg.sha512",
+    "C:\\Users\\7D-VISION\\.nuget\\packages\\prism.wpf\\7.2.0.1422\\prism.wpf.7.2.0.1422.nupkg.sha512",
+    "C:\\Users\\7D-VISION\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\7D-VISION\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512",
+    "C:\\Users\\7D-VISION\\.nuget\\packages\\unity.abstractions\\5.11.1\\unity.abstractions.5.11.1.nupkg.sha512",
+    "C:\\Users\\7D-VISION\\.nuget\\packages\\unity.container\\5.11.1\\unity.container.5.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}

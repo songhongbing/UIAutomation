@@ -1,0 +1,129 @@
+Log file created at: 2020/07/03 11:43:18
+Running on machine: DESKTOP-TDHUO65
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0703 11:43:18.293514 10188 cpptime.cpp:20] Timer inited 
+I0703 11:43:18.296514 11020 cpptime.cpp:96] Timer thread started..
+I0703 11:43:18.296514  9552 RenderUnigine.cpp:547] RenderMainLoop starting...
+I0703 11:43:18.736521  9552 AppNodeData.h:33] AppNodeData created
+I0703 11:43:18.746512 10188 GrpcService.cpp:27] GrpcServiceMainLoop started.
+I0703 11:43:18.746512 10188 RenderUnigine.cpp:605] waitRenderThread ...
+I0703 11:43:18.746512  6060 RenderUnigine.cpp:683] TimeFunc thread entered...
+I0703 11:43:18.749512 13180 GrpcService.cpp:49] Grpc Thread : Server listening on 0.0.0.0:50051
+I0703 11:43:29.741513  5140 ViDirectorPreivewServiceImpl.h:34] viDirectorPreview in
+I0703 11:43:48.385514 11860 WorldServiceImpl.h:33] getWorlds in
+I0703 11:43:48.385514 11860 RenderUnigineLogic.cpp:291] findWorldFiles ...
+E0703 11:43:48.385514 11860 util_file.cpp:21] can not open the path: ../data/
+I0703 11:43:48.386515 11860 RenderUnigineLogic.cpp:303] findWorldFiles failed:../data/
+E0703 11:43:48.386515 11860 util_file.cpp:21] can not open the path: ../../data/
+I0703 11:43:48.387516 11860 RenderUnigineLogic.cpp:308] findWorldFiles failed:../../data/
+I0703 11:43:48.387516 11860 RenderUnigineLogic.cpp:333] findWorldFiles done!:../../../data/,1
+I0703 11:43:48.389513 11860 WorldServiceImpl.h:64] getWorlds out
+I0703 11:43:50.267513 20636 WorldServiceImpl.h:72] loadWorld in
+I0703 11:43:53.863512  9552 AppNodeData.h:276] Total 146 nodes
+I0703 11:43:53.864513  9552 AppNodeData.h:288] Node load finish ..
+I0703 11:43:53.874512 20636 WorldServiceImpl.h:81] loadWorld out
+I0703 11:43:53.904513 11860 NodeServiceImpl.h:56] getNodes in
+I0703 11:43:53.925515 20636 NodeServiceImpl.h:213] getMaterilas in
+I0703 11:43:53.930513 11860 NodeServiceImpl.h:231] getTracklessMaterials in
+I0703 11:43:53.930513 11860 NodeServiceImpl.h:243] getTracklessMaterials out
+I0703 11:43:53.935516 20636 NodeServiceImpl.h:143] getWorldPlayers in
+I0703 11:43:54.184514  9552 AppRenderData.h:73] createScreen guid c9ee7b9ba57b1f2ab4d7914e3dc457a36cc2e787
+E0703 11:43:54.188525  9552 AppRenderSharedTexture.h:95] GetSharedHandle 0000000040002D42
+E0703 11:43:54.189512  9552 AppRenderSharedTexture2.h:102] GetSharedHandle 0000000080003282
+E0703 11:43:54.198515  9552 AppRenderSharedTexture2.h:102] GetSharedHandle 0000000040004382
+I0703 11:43:54.202543  9552 AppRenderData.h:75] createScreen ok 
+I0703 11:43:54.202543  9552 AppRenderData.h:73] createScreen guid d4f05e51af5ee63646bdc637db029af4bccca25b
+E0703 11:43:54.206511  9552 AppRenderSharedTexture.h:95] GetSharedHandle 00000000C0001782
+E0703 11:43:54.207511  9552 AppRenderSharedTexture2.h:102] GetSharedHandle 0000000080002CC2
+E0703 11:43:54.212512  9552 AppRenderSharedTexture2.h:102] GetSharedHandle 0000000080002002
+I0703 11:43:54.216511  9552 AppRenderData.h:75] createScreen ok 
+I0703 11:43:54.216511  9552 AppRenderData.h:73] createScreen guid 1e0aca9ccd7cd195303ef6b66362d5d4632d0314
+E0703 11:43:54.220515  9552 AppRenderSharedTexture.h:95] GetSharedHandle 0000000080000942
+E0703 11:43:54.221518  9552 AppRenderSharedTexture2.h:102] GetSharedHandle 00000000400023C2
+E0703 11:43:54.226514  9552 AppRenderSharedTexture2.h:102] GetSharedHandle 00000000800012C2
+I0703 11:43:54.230521  9552 AppRenderData.h:75] createScreen ok 
+I0703 11:43:54.230521  9552 AppRenderData.h:73] createScreen guid ac0527978d175fd8b0da67b321cc7f4c5d22d93a
+E0703 11:43:54.233520  9552 AppRenderSharedTexture.h:95] GetSharedHandle 0000000080004602
+E0703 11:43:54.234525  9552 AppRenderSharedTexture2.h:102] GetSharedHandle 0000000040002802
+E0703 11:43:54.239516  9552 AppRenderSharedTexture2.h:102] GetSharedHandle 0000000080001AC2
+I0703 11:43:54.244511  9552 AppRenderData.h:75] createScreen ok 
+I0703 11:43:54.244511  9552 AppRenderData.h:73] createScreen guid vibox_dynamic_screen_plane
+E0703 11:43:54.248512  9552 AppRenderSharedTexture.h:95] GetSharedHandle 00000000C0001502
+E0703 11:43:54.249511  9552 AppRenderSharedTexture2.h:102] GetSharedHandle 00000000C0003D42
+E0703 11:43:54.254513  9552 AppRenderSharedTexture2.h:102] GetSharedHandle 0000000040003C42
+I0703 11:43:54.258512  9552 AppRenderData.h:75] createScreen ok 
+I0703 11:43:54.258512  9552 AppRenderData.h:73] createScreen guid vibox_gui_bluebox_screen_plane
+E0703 11:43:54.262513  9552 AppRenderSharedTexture.h:95] GetSharedHandle 0000000040001582
+E0703 11:43:54.262513  9552 AppRenderSharedTexture2.h:102] GetSharedHandle 0000000040004682
+E0703 11:43:54.267513  9552 AppRenderSharedTexture2.h:102] GetSharedHandle 0000000080002082
+I0703 11:43:54.272512  9552 AppRenderData.h:75] createScreen ok 
+I0703 11:43:54.272512  9552 AppRenderData.h:73] createScreen guid vibox_gui_screen_plane
+E0703 11:43:54.275513  9552 AppRenderSharedTexture.h:95] GetSharedHandle 00000000C0002902
+E0703 11:43:54.276512  9552 AppRenderSharedTexture2.h:102] GetSharedHandle 0000000040000A02
+E0703 11:43:54.281512  9552 AppRenderSharedTexture2.h:102] GetSharedHandle 00000000C0000382
+I0703 11:43:54.285512  9552 AppRenderData.h:75] createScreen ok 
+I0703 11:43:54.285512  9552 AppRenderData.h:73] createScreen guid vibox_GPU_preview_screen
+E0703 11:43:54.288514  9552 AppRenderSharedTexture.h:95] GetSharedHandle 0000000040001D82
+E0703 11:43:54.289513  9552 AppRenderSharedTexture2.h:102] GetSharedHandle 0000000080001202
+E0703 11:43:54.294513  9552 AppRenderSharedTexture2.h:102] GetSharedHandle 0000000080004282
+I0703 11:43:54.298512  9552 AppRenderData.h:75] createScreen ok 
+I0703 11:44:07.534510 20636 CameraServiceImpl.h:52] addCamera in
+I0703 11:44:07.554512 20636 CameraServiceImpl.h:98] addCamera out
+I0703 11:44:07.575512 11860 ViDirectorServiceImpl.h:215] enginePreview in
+I0703 11:44:14.388517 20636 SDIServiceImpl.h:169] initCard in
+I0703 11:46:34.185019 20636 SDIServiceImpl.h:184] initCard out
+I0703 11:46:34.200021 20636 SDIServiceImpl.h:283] startCapture in
+E0703 11:46:34.208019 20636 DecklinkGPU.cpp:154] DeckLink Card count 0 sdi index 0
+E0703 11:46:34.208019 20636 SDIServiceImpl.h:294] startCapture failed 
+I0703 11:46:34.208019 20636 SDIServiceImpl.h:295] startCapture out
+I0703 11:46:45.198019 20636 CameraServiceImpl.h:192] removeCamera in
+I0703 11:46:45.199018 11860 ViDirectorServiceImpl.h:242] enginePreview out
+I0703 11:46:45.211022 20636 CardMgr.cpp:195] setChromaKeyParam not found card
+E0703 11:46:45.211022 20636 ChromeKeyBinder.cpp:46] ret:-1
+E0703 11:46:45.211022 20636 Camera.cpp:98] ret:-1
+I0703 11:46:45.211022 20636 Camera.cpp:8] ~Camera
+I0703 11:46:45.211022 20636 CameraServiceImpl.h:199] removeCamera out
+I0703 11:47:11.763017  5140 ViDirectorPreivewServiceImpl.h:63] viDirectorPreview out
+I0703 11:47:13.357017  9552 RenderUnigine.cpp:576] RenderMainLoop unigine isdone() 
+I0703 11:47:13.357017 10456 DecklinkGPU.cpp:51] DecklinkGPU shutting down...
+I0703 11:47:13.357017 10456 DecklinkGPU.cpp:51] DecklinkGPU shutting down...
+I0703 11:47:13.357017 10456 DecklinkGPU.cpp:92] ~Decklink
+I0703 11:47:13.357017 10456 Cardbase.cpp:45] ~Cardbase
+I0703 11:47:13.360018  9552 RenderUnigine.cpp:578] shutdownSubject.fire()  done! 
+I0703 11:47:13.360018  9552 RenderUnigine.cpp:580] RenderMainLoop thread closed.
+I0703 11:47:13.364019 10188 RenderUnigine.cpp:611] waitRenderThread done!
+I0703 11:47:13.364019 13180 GrpcService.cpp:53] Grpc server shutdown
+I0703 11:47:13.364019 10188 GrpcService.cpp:65] GrpcService stopService.
+I0703 11:47:13.365020 10188 App.cpp:56] app run finished!0
+I0703 11:47:13.365020 10188 FacadeExtend.cpp:13] ~FacadeExtend
+I0703 11:47:13.365020 10188 TrackerMgr.cpp:23] ~TrackerMgr
+I0703 11:47:13.365020 10188 FacadeEdu.cpp:55] ~FacadeEdu
+I0703 11:47:13.375018 10188 TcpServiceMgr.cpp:11] ~TcpServiceMgr
+I0703 11:47:13.375018 10188 CountDownDelay.cpp:14] ~CountDownDelay
+I0703 11:47:13.375018 10188 AudioOutput.h:20] ~AudioOutput
+I0703 11:47:13.375018 10188 ARAnimationMgr.cpp:9] ~ARAnimationMgr
+I0703 11:47:13.375018 10188 HostBoxMgr.cpp:14] ~HostBoxMgr
+I0703 11:47:13.375018 10188 BlueboxMgr.cpp:14] ~BlueboxMgr
+I0703 11:47:13.375018 10188 ChromeKeys.cpp:8] ~ChromeKeys
+I0703 11:47:13.375018 10188 TrackerLessNodeMgr.h:45] ~TrackerLessNodeMgr
+I0703 11:47:13.375018 10188 MediaSwitcherMgr.cpp:102] ~MediaSwitcherMgr
+I0703 11:47:13.375018 10188 OutputMgr.cpp:25] ~OutputMgr
+I0703 11:47:13.375018 10188 MultimediaMgr.cpp:13] ~MultimediaMgr
+I0703 11:47:13.375018 10188 RenderUnigine.cpp:605] waitRenderThread ...
+I0703 11:47:13.375018  6060 RenderUnigine.cpp:708] TimeFunc thread finished
+I0703 11:47:13.375018 10188 RenderUnigine.cpp:611] waitRenderThread done!
+I0703 11:47:13.375018 23400 RenderUnigine.cpp:439] GrabNotifyLoop break
+I0703 11:47:13.375018 23400 RenderUnigine.cpp:468] GrabNotifyLoop close
+I0703 11:47:13.376019  7036 AppRenderTexture.cpp:92] copyBufferLoop thread close
+I0703 11:47:13.376019 11436 AppRenderTexture.cpp:92] copyBufferLoop thread close
+I0703 11:47:13.376019 25948 AppRenderTexture.cpp:92] copyBufferLoop thread close
+I0703 11:47:13.377020 10044 AppRenderTexture.cpp:92] copyBufferLoop thread close
+I0703 11:47:13.377020  8708 AppRenderTexture.cpp:92] copyBufferLoop thread close
+I0703 11:47:13.378021 22300 AppRenderTexture.cpp:92] copyBufferLoop thread close
+I0703 11:47:13.378021  6828 AppRenderTexture.cpp:92] copyBufferLoop thread close
+I0703 11:47:13.378021 11340 AppRenderTexture.cpp:92] copyBufferLoop thread close
+I0703 11:47:13.379020 10188 AppNodeData.h:37] AppNodeData released
+I0703 11:47:13.422019 10188 RenderMgr.cpp:22] ~RenderMgr
+I0703 11:47:13.422019 10188 RenderUnigine.cpp:586] ~RenderUnigine
+I0703 11:47:13.423018 10188 RenderBase.cpp:20] ~RenderBase
+I0703 11:47:13.424068 10188 Mediator.cpp:31] ~Mediator

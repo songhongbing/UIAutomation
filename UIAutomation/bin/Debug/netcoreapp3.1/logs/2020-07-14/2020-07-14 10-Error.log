@@ -1,0 +1,4 @@
+2020-07-14 10:06:19.5584|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomation|286|0001:UIAutomation|1.0.0.0|13||任务步骤执行失败 System.Threading.ThreadInterruptedException: Thread was interrupted from a waiting state.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomation() in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 286

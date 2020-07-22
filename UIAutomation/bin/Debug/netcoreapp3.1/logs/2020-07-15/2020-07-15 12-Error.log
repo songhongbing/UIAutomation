@@ -1,0 +1,1278 @@
+2020-07-15 12:01:45.4712|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:01:47.5900|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|13||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:01:49.6190|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:01:51.6505|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|12||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:01:53.6822|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:01:55.7124|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:01:57.8975|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:01:59.9154|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:02:01.9344|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:02:03.9673|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|15||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:02:05.9965|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|14||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:02:08.0252|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|6||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:02:10.0621|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|15||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:02:12.0900|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|12||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:02:14.1219|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|15||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:02:16.1501|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:02:18.1811|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:02:20.2019|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:02:22.2335|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|6||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:02:24.2578|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:02:26.2742|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:02:28.3062|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:02:30.3269|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:02:32.3552|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|15||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:02:34.3727|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|13||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:02:36.3909|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|13||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:02:38.4086|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|13||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:02:40.4417|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|14||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:02:42.4599|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:02:44.4784|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:02:46.5082|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:02:48.5409|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:02:50.5715|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:02:52.5887|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|14||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:02:54.6182|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:02:56.6499|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|6||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:02:58.6857|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:03:00.7132|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|18||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:03:02.7302|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:03:04.7588|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|17||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:03:06.7891|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:03:08.8184|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:03:10.8362|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:03:12.8547|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|16||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:03:14.8838|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:03:16.9015|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:03:18.9314|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:03:20.9490|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:03:22.9696|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|16||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:03:24.9922|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:03:27.0114|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|17||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:03:29.0409|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:03:31.0579|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:03:33.0881|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:03:35.1191|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:03:37.1491|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|16||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:03:39.1834|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:03:41.2111|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|18||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:03:43.2460|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:03:45.2721|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|6||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:03:47.2929|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:03:49.3225|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:03:51.3511|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|6||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:03:53.3711|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:03:55.4003|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:03:57.4311|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:03:59.4624|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:04:01.4906|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:04:03.5078|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:04:05.5414|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:04:07.5712|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:04:09.6399|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|15||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:04:11.6661|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:04:13.6978|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:04:15.7177|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:04:17.7442|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|16||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:04:19.7705|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:04:21.7886|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:04:23.8063|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|16||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:04:25.8362|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:04:27.8545|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|6||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:04:29.8709|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|6||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:04:31.8891|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:04:33.9086|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:04:35.9409|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|17||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:04:37.9719|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|16||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:04:40.0038|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|17||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:04:42.0345|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|16||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:04:44.0672|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:04:46.1012|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:04:48.1223|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:04:50.1526|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|6||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:04:52.1807|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:04:54.1980|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:04:56.2151|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:04:58.2416|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:05:00.2593|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:05:02.2799|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:05:04.3071|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:05:06.3336|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:05:08.3518|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:05:10.3717|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|6||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:05:12.3906|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|6||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:05:14.4170|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:05:16.4466|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|6||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:05:18.4792|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:05:20.5107|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:05:22.5459|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:05:24.5723|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:05:26.5915|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:05:28.6172|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:05:30.6333|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:05:32.6637|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:05:34.6826|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:05:36.7174|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|6||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:05:38.7452|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:05:40.7751|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:05:42.8040|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:05:44.8208|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:05:46.8551|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:05:48.8748|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:05:50.8933|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:05:52.9232|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:05:54.9519|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:05:56.9804|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:05:58.9972|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:06:01.0143|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:06:03.0324|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:06:05.0616|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:06:07.0807|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:06:09.1093|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:06:11.1387|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:06:13.1644|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:06:15.1839|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|16||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:06:17.2113|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:06:19.2308|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:06:21.2623|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:06:23.2907|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:06:25.3227|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:06:27.3396|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:06:29.3710|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:06:31.3964|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:06:33.4149|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:06:35.4341|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:06:37.4537|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:06:39.7308|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:06:41.7641|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:06:43.7807|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:06:45.8088|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:06:47.8290|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:06:49.8564|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:06:51.8724|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:06:53.8913|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:06:55.9098|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:06:57.9401|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:06:59.9685|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:07:02.0034|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|6||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:07:04.0203|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:07:06.0414|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:07:08.0590|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:07:10.0781|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:07:12.0971|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:07:14.1284|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:07:16.1595|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|4||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:07:18.1910|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|15||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:07:20.2195|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|15||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:07:22.2481|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|15||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:07:24.2645|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|15||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:07:26.2807|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|15||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:07:28.3078|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|14||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:07:30.3365|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|14||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:07:32.3549|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|17||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:07:34.3854|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|14||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:07:36.4057|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|14||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:07:38.4223|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|14||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:07:40.4395|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|14||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:07:42.4681|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|14||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:07:44.4882|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|14||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:07:46.5223|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|12||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:07:48.5464|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|13||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:07:50.5641|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|14||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:07:52.6007|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|21||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:07:54.6223|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|12||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:07:56.6509|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|12||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:07:58.6702|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|15||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:08:00.6870|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|12||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:08:02.7043|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|15||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:08:04.7342|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|21||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:08:06.7507|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|15||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:08:08.7764|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|15||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:08:10.8018|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|15||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:08:12.8269|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|15||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:08:14.8563|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|15||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:09:40.2493|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|5||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:09:42.3695|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|5||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:09:44.4134|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|5||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:09:46.4454|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|13||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:09:48.4676|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|13||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:09:50.5013|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|5||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:09:52.5202|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|13||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:09:54.5394|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|11||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:09:56.5593|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|11||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:09:58.5873|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|11||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:10:00.6080|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|11||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:10:02.6386|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|15||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:10:04.6699|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|5||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:10:06.6973|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|5||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:10:08.7158|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|5||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:10:10.7330|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|5||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:10:12.7550|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|16||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:10:14.7773|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|16||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:10:16.8054|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|5||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+2020-07-15 12:10:18.8388|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState|641|0001:UIAutomation|1.0.0.0|5||检测Vibox进程报错 System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at System.String.Contains(String value)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.<>c.<RefurbishViboxState>b__98_0(Process o) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.RefurbishViboxState(Object state) in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 641

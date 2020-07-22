@@ -1,0 +1,30 @@
+2020-07-02 10:13:28.7310|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|152|0001:UIAutomation|1.0.0.0|1||开始执行测试 
+2020-07-02 10:14:10.4020|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|159|0001:UIAutomation|1.0.0.0|1||结束执行测试 
+2020-07-02 10:14:10.4526|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomation1|225|0001:UIAutomation|1.0.0.0|12||任务步骤执行失败 System.Threading.ThreadInterruptedException: Thread was interrupted from a waiting state.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomation1() in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 225
+2020-07-02 10:16:32.7716|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|152|0001:UIAutomation|1.0.0.0|1||开始执行测试 
+2020-07-02 10:16:47.8741|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomation1|225|0001:UIAutomation|1.0.0.0|15||任务步骤执行失败 System.Threading.ThreadInterruptedException: Thread was interrupted from a waiting state.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomation1() in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 225
+2020-07-02 10:16:47.7415|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|159|0001:UIAutomation|1.0.0.0|1||结束执行测试 
+2020-07-02 10:46:50.5466|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|152|0001:UIAutomation|1.0.0.0|1||开始执行测试 
+2020-07-02 10:47:07.1400|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|159|0001:UIAutomation|1.0.0.0|1||结束执行测试 
+2020-07-02 10:47:07.3378|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomation1|225|0001:UIAutomation|1.0.0.0|12||任务步骤执行失败 System.Threading.ThreadInterruptedException: Thread was interrupted from a waiting state.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomation1() in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 225
+2020-07-02 10:51:32.3752|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|152|0001:UIAutomation|1.0.0.0|1||开始执行测试 
+2020-07-02 10:51:48.8908|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|159|0001:UIAutomation|1.0.0.0|1||结束执行测试 
+2020-07-02 10:51:49.0077|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomation1|225|0001:UIAutomation|1.0.0.0|12||任务步骤执行失败 System.Threading.ThreadInterruptedException: Thread was interrupted from a waiting state.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomation1() in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 225
+2020-07-02 10:54:03.8414|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|152|0001:UIAutomation|1.0.0.0|1||开始执行测试 
+2020-07-02 10:54:05.0608|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|159|0001:UIAutomation|1.0.0.0|1||结束执行测试 
+2020-07-02 10:54:05.1415|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomation1|225|0001:UIAutomation|1.0.0.0|12||任务步骤执行失败 System.Threading.ThreadInterruptedException: Thread was interrupted from a waiting state.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomation1() in D:\workspace\viboxuiautomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 225

@@ -1,0 +1,319 @@
+﻿<UserControl x:Class="UIAutomation.Views.MainAutomationControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:hc="https://handyorg.github.io/handycontrol"
+             xmlns:converter="clr-namespace:UIAutomation.Converter"
+             xmlns:vm="clr-namespace:UIAutomation.ViewModels"
+             xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+             xmlns:prism="http://prismlibrary.com/"        
+             Background="White"
+             Name="userControl1"
+             prism:ViewModelLocator.AutoWireViewModel="True">
+    <i:Interaction.Triggers>
+        <i:EventTrigger EventName="Loaded">
+            <i:InvokeCommandAction Command="{Binding LoadedBindDataCommand}" CommandParameter="{Binding ElementName=userControl1}"/>
+        </i:EventTrigger>
+    </i:Interaction.Triggers>
+    <Control.Resources>
+        <converter:IsEnabledConverter x:Key="IsEnabledConverter"/>
+        <converter:ControlImageConverter x:Key="ControlImageConverter"/>
+    </Control.Resources>
+    <hc:TransitioningContentControl>
+        <Grid Margin="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="30"/>
+                <RowDefinition Height="75"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Menu Margin="8,0,0,0">
+                <Menu.Resources>
+                    <Style x:Key="ThemeMenuItemStyle" TargetType="MenuItem"> 
+                        <Setter Property="Header" Value="{Binding FilePath}"></Setter>
+                        <Setter Property="Command" Value="{Binding SelectFileCommand}"></Setter> 
+                        <Setter Property="CommandParameter" Value="{Binding FilePath}"></Setter>
+                        <Setter Property="Template">
+                            <Setter.Value>
+                                <ControlTemplate TargetType="MenuItem">
+                                    <MenuItem  Header="{Binding FilePath}" Command="{x:Static vm:MainAutomationControlViewModel.SelectFileCommand}" CommandParameter="{Binding FilePath}"/> 
+                                </ControlTemplate>
+                            </Setter.Value>
+                        </Setter>
+                    </Style>
+                </Menu.Resources>
+                <MenuItem Name="MenuFile" Header="文件">
+                    <MenuItem Header="选择程序" Command="{Binding BrowseFileCommand}">
+                        <MenuItem.Icon>
+                            <Image Source="/UIAutomation;component/Resources/Images/Png/select.png"/>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem Header="导出数据" Command="{Binding ExportDataCommand}">
+                        <MenuItem.Icon>
+                            <Image Source="/UIAutomation;component/Resources/Images/Png/import.png"/>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem Header="导入数据" Command="{Binding ImportDataCommand}">
+                        <MenuItem.Icon>
+                            <Image Source="/UIAutomation;component/Resources/Images/Png/export.png"/>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem Header="最近测试过的程序" ItemsSource="{Binding ConfigModel.HistoryFileData,Mode=OneWay}" ItemContainerStyle="{StaticResource ThemeMenuItemStyle}">
+                        <MenuItem.Icon>
+                            <Image Height="20" Source="/UIAutomation;component/Resources/Images/Png/history.png"/>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <Separator/>
+                    <MenuItem Header="退出" Command="{Binding ExitSystemCommand}">
+                        <MenuItem.Icon>
+                            <Image Source="/UIAutomation;component/Resources/Images/Png/exit.png"/>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                </MenuItem>
+                <MenuItem Name="MenuEdit" Header="编辑">
+                    <MenuItem Header="修改数据" Command="{Binding OpenConfigFileCommand}">
+                        <MenuItem.Icon>
+                            <Image Source="/UIAutomation;component/Resources/Images/Png/edit1.png"/>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                </MenuItem>
+                <MenuItem Name="MenuHelp" Header="帮助">
+                    <MenuItem Header="帮助文档">
+                        <MenuItem.Icon>
+                            <Image Source="/UIAutomation;component/Resources/Images/Png/helper.png"/>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem Header="关于我们">
+                        <MenuItem.Icon>
+                            <Image Source="/UIAutomation;component/Resources/Images/Png/aboutUs.png"/>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                </MenuItem>
+            </Menu>
+            <ToolBarTray Grid.Row="1" Height="85" Margin="10,2,20,0" VerticalAlignment="Center">
+                <ToolBar Padding="2,2,0,0" Width="220" Margin="2,2,0,0">
+                    <Button x:Name="BtnStartExe" Width="75" Height="25" Margin="20,2,10,0" Background="Transparent" Cursor="Hand" 
+                            IsEnabled="{Binding IsWorkingState,Converter={StaticResource IsEnabledConverter},Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}"
+                            Command="{Binding ExecProcessCommand}">
+                        <Button.Template>
+                            <ControlTemplate>
+                                <Border Background="{TemplateBinding Background}" BorderBrush="#CCCCCC" BorderThickness="0">
+                                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                                        <Image x:Name="StartImg" Source="/UIAutomation;component/Resources/Images/Png/start_exe.png"  Width="16" Height="16"  
+                                               hc:Poptip.Content="停止测试工作" hc:Poptip.Placement="Bottom" Margin="0,0,5,0"
+                                               HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                                        <TextBlock Text="启动程序" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                    </StackPanel>
+                                </Border>
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+                    <Separator/>
+                    <!--开始/停止 按钮-->
+                    <ToggleButton x:Name="BtnStart" Width="25" Height="25" Margin="10,3,0,0" Background="Transparent" Cursor="Hand" IsEnabled="{Binding IsChecked,ElementName=TgBtnViboxState}" IsChecked="{Binding AutomationState}" Command="{Binding AutomationCommand}">
+                        <ToggleButton.Template>
+                            <ControlTemplate TargetType="ToggleButton">
+                                <Border Background="{TemplateBinding Background}" BorderBrush="#CCCCCC"   BorderThickness="0">
+                                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                                        <Image x:Name="StartImg" Source="/UIAutomation;component/Resources/Images/Png/stop.png"  Width="16" Height="16"  
+                                               hc:Poptip.Content="停止测试工作" hc:Poptip.Placement="Bottom" 
+                                               HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                                        <Image x:Name="StopImg" Source="/UIAutomation;component/Resources/Images/Png/start_work.png" Width="18" Height="18" 
+                                                hc:Poptip.Content="开始测试流程" hc:Poptip.Placement="Bottom" 
+                                               HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                                    </StackPanel>
+                                </Border>
+                                <ControlTemplate.Triggers>
+                                    <Trigger Property="IsChecked" Value="True">
+                                        <Setter TargetName="StartImg" Property="Visibility" Value="Visible"/>
+                                        <Setter TargetName="StopImg" Property="Visibility" Value="Collapsed"/>
+                                    </Trigger>
+                                    <Trigger Property="IsChecked" Value="False">
+                                        <Setter TargetName="StartImg" Property="Visibility" Value="Collapsed"/>
+                                        <Setter TargetName="StopImg" Property="Visibility" Value="Visible"/>
+                                    </Trigger>
+                                </ControlTemplate.Triggers>
+                            </ControlTemplate>
+                        </ToggleButton.Template>
+                    </ToggleButton>
+                    <!--继续/暂停 按钮-->
+                    <ToggleButton Width="20" Margin="10,3,10,0" Background="Transparent" IsEnabled="{Binding IsChecked,ElementName=BtnStart}" Cursor="Hand" IsChecked="{Binding IsWorkingState}">
+                        <ToggleButton.Template>
+                            <ControlTemplate TargetType="ToggleButton">
+                                <Border Background="{TemplateBinding Background}" BorderBrush="#CCCCCC" CornerRadius="0.9" BorderThickness="0">
+                                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                                        <Image x:Name="StartImg" Source="/UIAutomation;component/Resources/Images/Png/continue.png" Width="16" Height="16" 
+                                               hc:Poptip.Content="继续" hc:Poptip.Placement="Bottom" 
+                                               HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                                        <Image x:Name="StopImg" Source="/UIAutomation;component/Resources/Images/Png/pause.png" Width="16" Height="16" 
+                                               hc:Poptip.Content="暂停" hc:Poptip.Placement="Bottom" 
+                                               HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                                    </StackPanel>
+                                </Border>
+                                <ControlTemplate.Triggers>
+                                    <Trigger Property="IsChecked" Value="True">
+                                        <Setter TargetName="StartImg" Property="Visibility" Value="Visible"/>
+                                        <Setter TargetName="StopImg" Property="Visibility" Value="Collapsed"/>
+                                    </Trigger>
+                                    <Trigger Property="IsChecked" Value="False">
+                                        <Setter TargetName="StartImg" Property="Visibility" Value="Collapsed"/>
+                                        <Setter TargetName="StopImg" Property="Visibility" Value="Visible"/>
+                                    </Trigger>
+                                </ControlTemplate.Triggers>
+                            </ControlTemplate>
+                        </ToggleButton.Template>
+                    </ToggleButton>
+                    <Button Content="刷新测试" Margin="0,3,20,0" Background="Transparent"  hc:Poptip.Content="重新开始测试" hc:FloatingBlock.Content="重新开始测试" hc:Poptip.Placement="Bottom"  Cursor="Hand"  Height="26" FontSize="11" 
+                            Command="{Binding ReStartUITestCommand}"
+                            IsEnabled="{Binding IsWorkingState,Converter={StaticResource IsEnabledConverter},Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}">
+                        <Button.Template>
+                            <ControlTemplate TargetType="Button">
+                                <Border Background="{TemplateBinding Background}" BorderBrush="#CCCCCC" CornerRadius="0.9" BorderThickness="0">
+                                    <Image x:Name="StartImg" Source="/UIAutomation;component/Resources/Images/Png/Refreshment.png" Width="15" Height="15"  HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                                </Border>
+                                <ControlTemplate.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter TargetName="StartImg" Property="Opacity" Value="0.8"/>
+                                    </Trigger>
+                                </ControlTemplate.Triggers>
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+                    <Separator/>
+                    <!--循环 按钮-->
+                    <ToggleButton Width="20" Margin="10,3,10,0" Background="Transparent"  Cursor="Hand" IsChecked="{Binding IsLoopState,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}">
+                        <ToggleButton.Template>
+                            <ControlTemplate TargetType="ToggleButton">
+                                <Border Background="{TemplateBinding Background}" BorderBrush="#CCCCCC" CornerRadius="0.9" BorderThickness="0">
+                                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                                        <Image x:Name="StartImg" Source="/UIAutomation;component/Resources/Images/Png/loop.png" Width="19" Height="19" 
+                                               hc:Poptip.Content="循环执行" hc:Poptip.Placement="Bottom" 
+                                               HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                                        <Image x:Name="StopImg" Source="/UIAutomation;component/Resources/Images/Png/single.png" Width="19" Height="19" 
+                                               hc:Poptip.Content="单次执行" hc:Poptip.Placement="Bottom" 
+                                               HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                                    </StackPanel>
+                                </Border>
+                                <ControlTemplate.Triggers>
+                                    <Trigger Property="IsChecked" Value="True">
+                                        <Setter TargetName="StartImg" Property="Visibility" Value="Visible"/>
+                                        <Setter TargetName="StopImg" Property="Visibility" Value="Collapsed"/>
+                                    </Trigger>
+                                    <Trigger Property="IsChecked" Value="False">
+                                        <Setter TargetName="StartImg" Property="Visibility" Value="Collapsed"/>
+                                        <Setter TargetName="StopImg" Property="Visibility" Value="Visible"/>
+                                    </Trigger>
+                                </ControlTemplate.Triggers>
+                            </ControlTemplate>
+                        </ToggleButton.Template>
+                    </ToggleButton>
+                </ToolBar>
+                <ToolBar Padding="2" Width="500" Margin="2,2,0,0" IsEnabled="{Binding IsWorkingState,Converter={StaticResource IsEnabledConverter},Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}">
+                    <StackPanel Orientation="Horizontal" Margin="0,5,0,0">
+                        <TextBlock Text="目标："  FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center" TextAlignment="Center"  Margin="20,0,0,0" />
+                        <TextBlock Text="{Binding FileName}"  hc:Poptip.Content="{Binding FileName}" hc:FloatingBlock.Content="{Binding FileName}" HorizontalAlignment="Center" VerticalAlignment="Center" TextAlignment="Left"  Margin="10,0,0,0" />
+                        <TextBlock Text="状态：" FontWeight="Bold" HorizontalAlignment="Center" Margin="20,0,0,0" VerticalAlignment="Center" TextAlignment="Center" />
+                        <ToggleButton x:Name="TgBtnViboxState"  Width="70" Margin="5,0,0,0" Background="Transparent" IsEnabled="False" IsChecked="{Binding ViboxState}" Command="{Binding AutomationCommand}">
+                            <ToggleButton.Template>
+                                <ControlTemplate TargetType="ToggleButton">
+                                    <Border Background="{TemplateBinding Background}">
+                                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                                            <TextBlock x:Name="StartContent" Foreground="Green" Margin="0,0,0,0" FontWeight="Bold" TextAlignment="Left" FontSize="13" HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}" Text="已启动"/>
+                                            <ContentPresenter x:Name="StopContent" Margin="0,0,0,0" Content="未运行" HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                                        </StackPanel>
+                                    </Border>
+                                    <ControlTemplate.Triggers>
+                                        <Trigger Property="IsChecked" Value="False">
+                                            <Setter TargetName="StartContent" Property="Visibility" Value="Collapsed"/>
+                                            <Setter TargetName="StopContent" Property="Visibility" Value="Visible"/>
+                                        </Trigger>
+                                        <Trigger Property="IsChecked" Value="True">
+                                            <Setter TargetName="StartContent" Property="Visibility" Value="Visible"/>
+                                            <Setter TargetName="StopContent" Property="Visibility" Value="Collapsed"/>
+                                        </Trigger>
+                                    </ControlTemplate.Triggers>
+                                </ControlTemplate>
+                            </ToggleButton.Template>
+                        </ToggleButton>
+                        <TextBlock Text="路线："  FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center" TextAlignment="Center"  Margin="20,0,0,0" />
+                        <ComboBox Height="20" Width="150" 
+                              ItemsSource="{Binding RoadsList,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}"  
+                              DisplayMemberPath="RoadName"   
+                              SelectedItem="{Binding CurrentRoads,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}"
+                              Margin="20,0,20,0">
+                        </ComboBox>
+                    </StackPanel>
+                </ToolBar>
+            </ToolBarTray>
+            <Border Grid.Row="2" Style="{StaticResource BorderRegion}" Effect="{StaticResource EffectShadow2}"  Margin="10,0,20,50">
+                <DataGrid x:Name="DataGrid1" 
+                          HeadersVisibility="All" 
+                          RowHeaderWidth="60" 
+                          AutoGenerateColumns="False"  
+                          ItemsSource="{Binding AutomationList}"  
+                          AllowDrop="True"
+                          hc:DataGridAttach.ShowRowNumber="True">
+                    <i:Interaction.Triggers>
+                        <i:EventTrigger EventName="MouseDoubleClick">
+                            <i:InvokeCommandAction Command="{Binding MouseDoubleGridCommand}" CommandParameter="{Binding ElementName=DataGrid1,Path=SelectedItem}"/>
+                        </i:EventTrigger>
+                    </i:Interaction.Triggers> 
+                    <DataGrid.RowHeaderStyle>
+                        <Style TargetType="DataGridRowHeader">
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding IsSelected}" Value="1">
+                                    <Setter Property="Background" Value="DeepSkyBlue"></Setter>
+                                </DataTrigger>
+                            </Style.Triggers>
+                        </Style>
+                    </DataGrid.RowHeaderStyle>
+                    <DataGrid.ContextMenu>
+                        <ContextMenu Name="dgmenu1" StaysOpen="true">
+                            <MenuItem Header="添加下一项" Command="{Binding AddAutomationCommand}" CommandParameter="{Binding RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type ContextMenu}},Path=PlacementTarget.SelectedItem}">
+                                <MenuItem.Icon>
+                                    <Image Source="/UIAutomation;component/Resources/Images/Png/add.png" Width="12"/>
+                                </MenuItem.Icon>
+                            </MenuItem>
+                            <MenuItem Header="编辑" Command="{Binding EditAutomationCommand}" CommandParameter="{Binding RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type ContextMenu}},Path=PlacementTarget.SelectedItem}">
+                                <MenuItem.Icon>
+                                    <Image Width="15" Source="/UIAutomation;component/Resources/Images/Png/edit2.png"/>
+                                </MenuItem.Icon>
+                            </MenuItem>
+                            <MenuItem Header="删除" Command="{Binding MinusAutomationCommand}" CommandParameter="{Binding RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type ContextMenu}},Path=PlacementTarget.SelectedItem}">
+                                <MenuItem.Icon>
+                                    <Image Source="/UIAutomation;component/Resources/Images/Png/minus.png"/>
+                                </MenuItem.Icon>
+                            </MenuItem>
+                            <MenuItem Header="向上移动" Command="{Binding MoveUpCommand}" CommandParameter="{Binding RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type ContextMenu}},Path=PlacementTarget.SelectedItem}">
+                                <MenuItem.Icon>
+                                    <Image Source="/UIAutomation;component/Resources/Images/Png/moveup.png"/>
+                                </MenuItem.Icon>
+                            </MenuItem>
+                            <MenuItem Header="向下移动" Command="{Binding MoveDownCommand}" CommandParameter="{Binding RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type ContextMenu}},Path=PlacementTarget.SelectedItem}">
+                                <MenuItem.Icon>
+                                    <Image Source="/UIAutomation;component/Resources/Images/Png/movedown.png"/>
+                                </MenuItem.Icon>
+                            </MenuItem>
+                        </ContextMenu>
+                    </DataGrid.ContextMenu> 
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Visibility="Collapsed" Binding="{Binding ID}" Width="200" IsReadOnly="True" Header="名称"/>
+                        <DataGridTextColumn Binding="{Binding Name}" Width="200" IsReadOnly="True" Header="名称"/>
+                        <DataGridTextColumn Binding="{Binding SleepTime,StringFormat='{}{0}毫秒'}" Width="100" IsReadOnly="True" Header="等待时间"/>
+                        <DataGridTemplateColumn Width="150"  IsReadOnly="True" Header="控件类型">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <StackPanel Orientation="Horizontal">
+                                        <Image Source="{Binding ControlType,Converter={StaticResource ControlImageConverter}}" Width="16" Height="16"/>
+                                        <TextBlock Text="{Binding ControlType}" Width="80" Margin="5,0,0,0"/>
+                                    </StackPanel>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                        <DataGridTextColumn  Binding="{Binding ControlName}"  Width="150" IsReadOnly="True" Header="控件名称"/>
+                        <DataGridTextColumn Binding="{Binding Operation}" Width="100"  IsReadOnly="True" Header="目标操作"/>
+                        <DataGridTextColumn Binding="{Binding SetValue}" Width="*"  IsReadOnly="True" Header="赋值"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+            </Border>
+        </Grid>
+    </hc:TransitioningContentControl>
+</UserControl>

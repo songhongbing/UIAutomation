@@ -1,0 +1,6 @@
+2020-06-24 13:52:48.9348|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|124|0001:UIAutomation|1.0.0.0|1||开始执行测试 
+2020-06-24 13:52:55.3782|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|130|0001:UIAutomation|1.0.0.0|1||结束执行测试 
+2020-06-24 13:52:55.4026|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomation1|183|0001:UIAutomation|1.0.0.0|11||任务步骤执行失败 System.Threading.ThreadInterruptedException: Thread was interrupted from a waiting state.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomation1() in D:\testspace\UIAutomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 183

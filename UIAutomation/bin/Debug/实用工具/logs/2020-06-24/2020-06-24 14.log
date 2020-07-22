@@ -1,0 +1,63 @@
+2020-06-24 14:02:25.2557|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|147|0001:UIAutomation|1.0.0.0|1||开始执行测试 
+2020-06-24 14:02:41.7723|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|147|0001:UIAutomation|1.0.0.0|1||开始执行测试 
+2020-06-24 14:02:52.3696|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|147|0001:UIAutomation|1.0.0.0|1||开始执行测试 
+2020-06-24 14:05:45.3274|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|147|0001:UIAutomation|1.0.0.0|1||开始执行测试 
+2020-06-24 14:05:52.0781|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomation1|199|0001:UIAutomation|1.0.0.0|12||任务步骤执行失败 System.Windows.Automation.ElementNotAvailableException: 无法识别的错误。
+   at MS.Internal.Automation.UiaCoreApi.CheckError(Int32 hr)
+   at MS.Internal.Automation.UiaCoreApi.UiaFind(SafeNodeHandle hnode, UiaFindParams findParams, Condition findCondition, UiaCacheRequest request)
+   at System.Windows.Automation.AutomationElement.Find(TreeScope scope, Condition condition, UiaCacheRequest request, Boolean findFirst, BackgroundWorker worker)
+   at System.Windows.Automation.AutomationElement.FindFirst(TreeScope scope, Condition condition)
+   at UIAutomation.Common.AutomationHelper.FindElementById(Process process, String automationId) in D:\testspace\UIAutomation\UIAutomation\Common\AutomationHelper.cs:line 26
+   at UIAutomation.Common.AutomationFactory.ExecuteAutomationTask(AutomationModel automation) in D:\testspace\UIAutomation\UIAutomation\Common\AutomationFactory.cs:line 40
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomation1() in D:\testspace\UIAutomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 199
+2020-06-24 14:10:45.8119|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|150|0001:UIAutomation|1.0.0.0|1||开始执行测试 
+2020-06-24 14:10:45.9741|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomation1|202|0001:UIAutomation|1.0.0.0|12||任务步骤执行失败 System.InvalidProgramException: Target window is not existing.try #0
+
+ ---> System.Windows.Automation.ElementNotAvailableException: 无法识别的错误。
+   at MS.Internal.Automation.UiaCoreApi.CheckError(Int32 hr)
+   at MS.Internal.Automation.UiaCoreApi.UiaGetUpdatedCache(SafeNodeHandle hnode, UiaCacheRequest request, NormalizeState normalize, Condition customCondition)
+   at System.Windows.Automation.AutomationElement.FromHandle(IntPtr hwnd)
+   at UIAutomation.Common.AutomationHelper.FindWindowByProcessId(Process process) in D:\testspace\UIAutomation\UIAutomation\Common\AutomationHelper.cs:line 42
+   --- End of inner exception stack trace ---
+   at UIAutomation.Common.AutomationHelper.FindWindowByProcessId(Process process) in D:\testspace\UIAutomation\UIAutomation\Common\AutomationHelper.cs:line 49
+   at UIAutomation.Common.AutomationHelper.FindElementById(Process process, String automationId) in D:\testspace\UIAutomation\UIAutomation\Common\AutomationHelper.cs:line 25
+   at UIAutomation.Common.AutomationFactory.ExecuteAutomationTask(AutomationModel automation) in D:\testspace\UIAutomation\UIAutomation\Common\AutomationFactory.cs:line 40
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomation1() in D:\testspace\UIAutomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 202
+2020-06-24 14:10:54.7447|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|156|0001:UIAutomation|1.0.0.0|1||结束执行测试 
+2020-06-24 14:11:54.5117|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|150|0001:UIAutomation|1.0.0.0|1||开始执行测试 
+2020-06-24 14:15:29.3140|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|150|0001:UIAutomation|1.0.0.0|1||开始执行测试 
+2020-06-24 14:15:35.1270|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|156|0001:UIAutomation|1.0.0.0|1||结束执行测试 
+2020-06-24 14:15:35.1883|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomation1|213|0001:UIAutomation|1.0.0.0|14||任务步骤执行失败 System.Threading.ThreadInterruptedException: Thread was interrupted from a waiting state.
+   at System.Threading.WaitHandle.WaitOneCore(IntPtr waitHandle, Int32 millisecondsTimeout)
+   at System.Threading.WaitHandle.WaitOneNoCheck(Int32 millisecondsTimeout)
+   at System.Threading.WaitHandle.WaitOne()
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomation1() in D:\testspace\UIAutomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 213
+2020-06-24 14:15:39.2933|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|150|0001:UIAutomation|1.0.0.0|1||开始执行测试 
+2020-06-24 14:16:00.8771|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomation1|202|0001:UIAutomation|1.0.0.0|15||任务步骤执行失败 System.Windows.Automation.ElementNotAvailableException: 无法识别的错误。
+   at MS.Internal.Automation.UiaCoreApi.CheckError(Int32 hr)
+   at System.Windows.Automation.InvokePattern.Invoke()
+   at UIAutomation.Common.AutomationHelper.InvokePatternToInvoke(AutomationElement element) in D:\testspace\UIAutomation\UIAutomation\Common\AutomationHelper.cs:line 151
+   at UIAutomation.Common.AutomationFactory.ExecuteAutomationTask(AutomationModel automation) in D:\testspace\UIAutomation\UIAutomation\Common\AutomationFactory.cs:line 58
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomation1() in D:\testspace\UIAutomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 202
+2020-06-24 14:16:33.1149|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|156|0001:UIAutomation|1.0.0.0|1||结束执行测试 
+2020-06-24 14:16:34.4375|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|150|0001:UIAutomation|1.0.0.0|1||开始执行测试 
+2020-06-24 14:17:22.6029|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|156|0001:UIAutomation|1.0.0.0|1||结束执行测试 
+2020-06-24 14:17:22.6466|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomation1|213|0001:UIAutomation|1.0.0.0|13||任务步骤执行失败 System.Threading.ThreadInterruptedException: Thread was interrupted from a waiting state.
+   at System.Threading.WaitHandle.WaitOneCore(IntPtr waitHandle, Int32 millisecondsTimeout)
+   at System.Threading.WaitHandle.WaitOneNoCheck(Int32 millisecondsTimeout)
+   at System.Threading.WaitHandle.WaitOne()
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomation1() in D:\testspace\UIAutomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 213
+2020-06-24 14:17:23.2330|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|150|0001:UIAutomation|1.0.0.0|1||开始执行测试 
+2020-06-24 14:18:00.4371|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|150|0001:UIAutomation|1.0.0.0|1||开始执行测试 
+2020-06-24 14:18:43.2754|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|150|0001:UIAutomation|1.0.0.0|1||开始执行测试 
+2020-06-24 14:20:57.6576|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|150|0001:UIAutomation|1.0.0.0|1||开始执行测试 
+2020-06-24 14:21:26.5163|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomation1|202|0001:UIAutomation|1.0.0.0|13||任务步骤执行失败 System.Windows.Automation.ElementNotAvailableException: 无法识别的错误。
+   at MS.Internal.Automation.UiaCoreApi.CheckError(Int32 hr)
+   at System.Windows.Automation.ValuePattern.SetValue(String value)
+   at UIAutomation.Common.AutomationHelper.SetValueToValuePattern(AutomationElement element, String value) in D:\testspace\UIAutomation\UIAutomation\Common\AutomationHelper.cs:line 100
+   at UIAutomation.Common.AutomationFactory.ExecuteAutomationTask(AutomationModel automation) in D:\testspace\UIAutomation\UIAutomation\Common\AutomationFactory.cs:line 52
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomation1() in D:\testspace\UIAutomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 202
+2020-06-24 14:34:33.4634|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|150|0001:UIAutomation|1.0.0.0|1||开始执行测试 
+2020-06-24 14:39:06.3773|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|150|0001:UIAutomation|1.0.0.0|1||开始执行测试 
+2020-06-24 14:47:07.8869|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|150|0001:UIAutomation|1.0.0.0|1||开始执行测试 
+2020-06-24 14:52:58.7354|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|150|0001:UIAutomation|1.0.0.0|1||开始执行测试 

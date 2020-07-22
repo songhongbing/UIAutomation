@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<UIAutomation>
+	<Road Name="UI自动化路线1"> 
+                               <Automation Name="滚动到最下方" ControlName="Scroll_ResourceContent" Operation=""  ControlType="ScrollViewer"   SetValue="LargeIncrement" SleepTime="1000" />
+		<Automation Name="打开场景选择窗口" ControlName="AddScene" Operation=""  ControlType="Button"  SetValue="" SleepTime="1000" />
+		<Automation Name="选择场景" ControlName="LstScene" Operation=""  ControlType="ListBox"   SetValue="1" SleepTime="1000" />
+		<Automation Name="选中场景" ControlName="BtnSceneOK" Operation=""  ControlType="Button"   SetValue="" SleepTime="10000" />
+		<Automation Name="点击添加摄像机按钮" ControlName="AddCamera" Operation=""  ControlType="Button"    SetValue="" SleepTime="1000" />
+		<Automation Name="点击选中摄像机菜单" ControlName="CameraButton"  Operation="" ControlType="Button"   SetValue="" SleepTime="2000" />
+		<Automation Name="设置摄像机名称" ControlName="TxtCameraName"  Operation="" ControlType="TextBox"   SetValue="摄像机{Time}" SleepTime="1000" />
+		<Automation Name="点击选择摄像机按钮" ControlName="BtnSelectCamera"  Operation="" ControlType="Button"    SetValue="" SleepTime="1000" />
+		
+		<Automation Name="判断摄像头数量" ControlName="LstManagementCameras"  Operation="If" ControlType="ListBox"  SetValue="0" SleepTime="1000" /> 
+
+		    <Automation Name="点击添加摄像机配置按钮" ControlName="BtnAddCameraConfig" Operation=""  ControlType="Button"  SetValue="" SleepTime="1000" />
+		    <Automation Name="设置摄像机配置名称" ControlName="TxtConfigCameraName" Operation=""  ControlType="TextBox"    SetValue="摄像机配置{Time}" SleepTime="1000" />
+        
+		    <Automation Name="点击采集卡选项" ControlName="tb_IsUseSDI" Operation=""  ControlType="ToggleButton"   SetValue="" SleepTime="1000" />
+		    <Automation Name="选择采集卡" ControlName="CmbCollectionsCards" Operation=""  ControlType="ComboBox"    SetValue="8" SleepTime="2000" />
+		    <Automation Name="选择端口" ControlName="CmbCollectionsCardsPort" Operation=""  ControlType="ComboBox"   SetValue="1" SleepTime="2000" />
+		    <Automation Name="选择格式" ControlName="CmbCollectionsCardsFormat" Operation=""  ControlType="ComboBox"  SetValue="2" SleepTime="2000" />
+
+		    <Automation Name="点击跟踪选项" ControlName="tb_IsUseTracker" Operation=""  ControlType="ToggleButton"   SetValue="" SleepTime="2000" />
+		    <Automation Name="选择跟踪协议" ControlName="CmbFollowAgreement"  Operation="" ControlType="ComboBox"   SetValue="19" SleepTime="2000" />
+		    <Automation Name="选择跟踪镜头" ControlName="CmbFollowLens"  Operation="" ControlType="ComboBox"    SetValue="6" SleepTime="2000" />
+		    <Automation Name="选择跟踪串口" ControlName="CmbFollowPort"  Operation="" ControlType="ComboBox"   SetValue="1" SleepTime="3000" />
+		    <Automation Name="点击确定按钮" ControlName="BtnCameraInfoOk" Operation=""  ControlType="Button"    SetValue="1" SleepTime="2000" />
+		
+		<Automation Name="判断摄像头数量" ControlName="LstManagementCameras"  Operation="EndIf" ControlType="ListBox"  SetValue="" SleepTime="1000" />
+
+		<Automation Name="选择摄像机列表例表" ControlName="LstManagementCameras" Operation=""  ControlType="ListBox"    SetValue="1" SleepTime="2000" />
+		<Automation Name="点击确定按钮" ControlName="BtnCameraManageOK"  Operation="" ControlType="Button"   SetValue="" SleepTime="2000" />
+		<Automation Name="选择虚拟机位" ControlName="CmbCameraAddress" Operation=""  ControlType="ComboBox"   SetValue="1" SleepTime="2000" />
+		<Automation Name="点击确定按钮" ControlName="BtnCameraOK" Operation=""  ControlType="Button"    SetValue="" SleepTime="1000" />
+
+		
+
+		<Automation Name="添加资源4按钮" ControlName="BtnResource4" Operation=""  ControlType="Button"   SetValue="" SleepTime="2000" />
+		<Automation Name="点击添加多媒体" ControlName="MediaButton" Operation=""  ControlType="Button"   SetValue="" SleepTime="2000" />
+		<Automation Name="添加多媒体名称" ControlName="TxtMediaName" Operation=""  ControlType="TextBox"   SetValue="视频1" SleepTime="2000" />
+		<Automation Name="点击选择多媒体按钮" ControlName="BtnSelectMedia" Operation=""  ControlType="Button"   SetValue="" SleepTime="2000" />
+		<Automation Name="选择多媒体" ControlName="LstMediaManage" Operation=""  ControlType="ListBox"   SetValue="1" SleepTime="2000" />
+		<Automation Name="点击确定按钮" ControlName="BtnMediaManageOK" Operation=""  ControlType="Button"   SetValue="" SleepTime="2000" />
+
+		<Automation Name="选择显示方式" ControlName="CmbDisplayMode" Operation=""  ControlType="ComboBox"   SetValue="2" SleepTime="2000" />
+		<Automation Name="选择场景视窗" ControlName="CmbSceneWindow" Operation=""  ControlType="ComboBox"   SetValue="2" SleepTime="3000" />
+		<Automation Name="点击确定按钮" ControlName="BtnMediaOK"  Operation="" ControlType="Button"   SetValue="" SleepTime="2000" />
+
+		<Automation Name="滚动到最上方" ControlName="Scroll_ResourceContent" Operation=""  ControlType="ScrollViewer"   SetValue="LargeDecrement" SleepTime="1000" />
+		<Automation Name="添加资源3按钮" ControlName="BtnResource3" Operation=""  ControlType="Button"   SetValue="" SleepTime="2000" />
+		<Automation Name="点击虚拟植入" ControlName="VirtualButton" Operation=""  ControlType="Button"   SetValue="" SleepTime="2000" />
+		<Automation Name="虚拟名称" ControlName="TxtARName" Operation=""  ControlType="TextBox"   SetValue="虚拟动画1" SleepTime="2000" />
+		<Automation Name="选择虚拟动画" ControlName="BtnSelectARInfoName"  Operation="" ControlType="Button"   SetValue="" SleepTime="2000" />
+		<Automation Name="选择目标多媒体" ControlName="LstARCollection" Operation=""  ControlType="ListBox"   SetValue="2" SleepTime="2000" />
+		<Automation Name="点击确定按钮" ControlName="BtnARInfoOK" Operation=""  ControlType="Button"   SetValue="" SleepTime="2000" />
+		<Automation Name="启用循环播放" ControlName="TglBtnIsLoop" Operation=""  ControlType="ToggleButton"   SetValue="" SleepTime="2000" />
+		<Automation Name="点击确定按钮" ControlName="BtnARWinOK" Operation=""  ControlType="Button"   SetValue="" SleepTime="2000" />
+
+		
+		<Automation Name="选择资源4" ControlName="LstResource4" Operation=""  ControlType="ListBox"   SetValue="2" SleepTime="2000" />
+		<Automation Name="切入" ControlName="BtnCutIn" Operation=""  ControlType="Button"   SetValue="" SleepTime="5000" />
+		<Automation Name="选择资源3" ControlName="LstResource3"  Operation="" ControlType="ListBox"   SetValue="2" SleepTime="2000" />
+		<Automation Name="切入" ControlName="BtnCutIn"  Operation="" ControlType="Button"   SetValue="" SleepTime="25000" />
+
+		
+		<Automation Name="选择资源4" ControlName="LstResource4" Operation=""  ControlType="ListBox"   SetValue="2" SleepTime="1000" />
+		<Automation Name="选择资源3" ControlName="LstResource3" Operation=""  ControlType="ListBox"   SetValue="2" SleepTime="1000" />
+		<Automation Name="切出" ControlName="BtnCutOut" Operation=""  ControlType="Button"   SetValue="" SleepTime="5000" />
+
+		<Automation Name="滚动到最上方" ControlName="Scroll_ResourceContent" Operation=""  ControlType="ScrollViewer"   SetValue="LargeDecrement" SleepTime="1000" />
+		<Automation Name="选择资源3" ControlName="LstResource3"  Operation="LeftMouse" ControlType="ListBox"   SetValue="2" SleepTime="1000" />
+		<Automation Name="删除" ControlName="Menu_Delete"  Operation="" ControlType="Button"   SetValue="" SleepTime="1000" />
+		<Automation Name="确定" ControlName=""  Operation="" ControlType="MessageBox"   SetValue="" SleepTime="1000" />
+
+
+		<Automation Name="选择资源4" ControlName="LstResource4"  Operation="LeftMouse" ControlType="ListBox"   SetValue="2" SleepTime="1000" />
+		<Automation Name="删除" ControlName="Menu_Delete"  Operation="" ControlType="Button"   SetValue="" SleepTime="1000" />
+		<Automation Name="确定" ControlName=""  Operation="" ControlType="MessageBox"   SetValue="" SleepTime="1000" />
+
+		<Automation Name="滚动到最下方" ControlName="Scroll_ResourceContent" Operation=""  ControlType="ScrollViewer"   SetValue="LargeIncrement" SleepTime="1000" />
+		
+
+		<Automation Name="摄像机层" ControlName="LstCamera"  Operation="LeftMouse" ControlType="ListBox"   SetValue="2" SleepTime="1000" />
+		<Automation Name="删除" ControlName="Menu_Delete"  Operation="" ControlType="Button"   SetValue="" SleepTime="1000" />
+		<Automation Name="确定" ControlName=""  Operation="" ControlType="MessageBox"   SetValue="" SleepTime="1000" />
+
+		<Automation Name="场景层" ControlName="LstScence"  Operation="LeftMouse" ControlType="ListBox"   SetValue="2" SleepTime="1000" />
+		<Automation Name="删除" ControlName="Menu_Delete"  Operation="" ControlType="Button"   SetValue="" SleepTime="1000" />
+		<Automation Name="确定" ControlName=""  Operation="" ControlType="MessageBox"   SetValue="" SleepTime="2000" />
+
+		<Automation Name="关闭 ViBox" ControlName="ViDirector"  Operation="Kill" ControlType="Process"   SetValue="" SleepTime="2000" />
+		<Automation Name="关闭 ViBox Engine" ControlName="ViboxEngine"  Operation="Kill" ControlType="Process"   SetValue="" SleepTime="2000" />
+                                <Automation Name="关闭 ViBox Engine" ControlName="ViboxEngine"  Operation="Kill" ControlType="Process"   SetValue="" SleepTime="2000" />
+                                <Automation Name="关闭 ViBox Engine" ControlName="ViboxEngine"  Operation="Kill" ControlType="Process"   SetValue="" SleepTime="2000" />
+
+                                <Automation Name="启动 ViBox Engine" ControlName="ViboxEngine"  Operation="Start" ControlType="Process"   SetValue="C:\Users\cave\Desktop\ViboxEngine_4k\bin\x64\Release_4k\ViboxEngine.exe" SleepTime="2000" />
+		<Automation Name="打开 ViBox" ControlName="ViDirector"  Operation="Start" ControlType="Process"   SetValue="F:\viboxTest\ViBox\netcoreapp3.1\ViDirector.exe" SleepTime="6000" />
+	
+	</Road>
+	<Road Name="UI自动化路线2">
+                          <Automation Name="启动 ViBox Engine" ControlName="ViboxEngine"  Operation="Start" ControlType="Process"   SetValue="E:\安装包\vibox\bin\x64\Release_4k\ViboxEngine.exe" SleepTime="10000" />
+	 </Road>
+</UIAutomation>

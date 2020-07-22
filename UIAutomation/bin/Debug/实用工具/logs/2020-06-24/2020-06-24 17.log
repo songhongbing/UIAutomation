@@ -1,0 +1,18 @@
+2020-06-24 17:02:21.2010|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|150|0001:UIAutomation|1.0.0.0|1||开始执行测试 
+2020-06-24 17:05:33.7522|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|150|0001:UIAutomation|1.0.0.0|1||开始执行测试 
+2020-06-24 17:07:36.3889|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|150|0001:UIAutomation|1.0.0.0|1||开始执行测试 
+2020-06-24 17:09:52.0932|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|156|0001:UIAutomation|1.0.0.0|1||结束执行测试 
+2020-06-24 17:09:52.6216|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|150|0001:UIAutomation|1.0.0.0|1||开始执行测试 
+2020-06-24 17:10:09.2831|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomation1|216|0001:UIAutomation|1.0.0.0|15||任务步骤执行失败 System.Threading.ThreadInterruptedException: Thread was interrupted from a waiting state.
+   at System.Threading.WaitHandle.WaitOneCore(IntPtr waitHandle, Int32 millisecondsTimeout)
+   at System.Threading.WaitHandle.WaitOneNoCheck(Int32 millisecondsTimeout)
+   at System.Windows.Threading.DispatcherOperation.DispatcherOperationEvent.WaitOne()
+   at System.Windows.Threading.DispatcherOperation.Wait(TimeSpan timeout)
+   at System.Windows.Threading.Dispatcher.InvokeImpl(DispatcherOperation operation, CancellationToken cancellationToken, TimeSpan timeout)
+   at System.Windows.Threading.Dispatcher.Invoke(Action callback, DispatcherPriority priority, CancellationToken cancellationToken, TimeSpan timeout)
+   at System.Windows.Threading.Dispatcher.Invoke(Action callback)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomation1() in F:\宋红兵\UIAutoMation\UIAutomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 216
+2020-06-24 17:10:46.3924|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|150|0001:UIAutomation|1.0.0.0|1||开始执行测试 
+2020-06-24 17:35:28.2036|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|150|0001:UIAutomation|1.0.0.0|1||开始执行测试 
+2020-06-24 17:36:28.6421|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|150|0001:UIAutomation|1.0.0.0|1||开始执行测试 
+2020-06-24 17:52:37.4512|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|150|0001:UIAutomation|1.0.0.0|1||开始执行测试 

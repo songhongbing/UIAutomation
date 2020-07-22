@@ -1,0 +1,489 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>logo.ico</ApplicationIcon>
+    <AssemblyName>UIAutomation</AssemblyName>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <GenerateSerializationAssemblies>Auto</GenerateSerializationAssemblies>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\Files\ControlList.xml" />
+    <None Remove="Resources\Images\Ico\logo.ico" />
+    <None Remove="Resources\Images\LeftMainContent\Animation_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\BorderElement_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\brackets_Square_16xLG.png" />
+    <None Remove="Resources\Images\LeftMainContent\Brush_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\Bubble_16xLG.png" />
+    <None Remove="Resources\Images\LeftMainContent\ButtonClick_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\ButtonGroup_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\Calendar_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\Carousel_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\CheckBox_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\ColorPalette_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\ColorWheel_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\ComboBox_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\ContextMenu_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\DataGenerator_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\DataGrid_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\DatePicker_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\DetailDataView_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\Dialog_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\DotLarge_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\DottedSplitter_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\Dynamic_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\Effects_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\Ellipsis_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\Expander_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\FlipVertical_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\Flow_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\frame_16xLG.png" />
+    <None Remove="Resources\Images\LeftMainContent\GoToTop_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\GridPane_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\GroupBox_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\HandyControl.png" />
+    <None Remove="Resources\Images\LeftMainContent\HoverMenu_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\ImageBrowser_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\ImageStack_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\Label_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\LinearCarousel_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\ListBox_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\ListView_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\Loading_Blue_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\MainMenuControl_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\Message_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\Mouse.png" />
+    <None Remove="Resources\Images\LeftMainContent\NotificationHub_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\NumericListBox_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\OutlinedRectangleTool_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\Paginator_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\Panel_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\PasswordBox_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\Path_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\PolygonHexagon_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\PopupCursor_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\Procedure_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\ProgressBar_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\ProgressButton_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\RadioButton_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\RepeatButton_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\RichTextBox_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\ScrollBox_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\Search_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\Shield_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\Slider_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\SortAscending_grey_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\SplitButton_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\SplitterControl_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\Star.png" />
+    <None Remove="Resources\Images\LeftMainContent\TabPage_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\Tag_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\TextBlock_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\TextBox_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\thumbs_up.png" />
+    <None Remove="Resources\Images\LeftMainContent\Timeline_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\TimePicker_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\Time_color_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\Toggle_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\ToolBar_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\Transfer_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\TransformRelative_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\TransitioningContentControl_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\TreeView_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\User_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\View_Portrait_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\VSO_Card_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\WindowScreenshot_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\WindowsForm_16x.png" />
+    <None Remove="Resources\Images\LeftMainContent\WPFFlowDocument_16x.png" />
+    <None Remove="Resources\Images\Png\aboutUs.png" />
+    <None Remove="Resources\Images\Png\add.png" />
+    <None Remove="Resources\Images\Png\Continue.png" />
+    <None Remove="Resources\Images\Png\edit.png" />
+    <None Remove="Resources\Images\Png\edit1.png" />
+    <None Remove="Resources\Images\Png\edit2.png" />
+    <None Remove="Resources\Images\Png\error.png" />
+    <None Remove="Resources\Images\Png\exit.png" />
+    <None Remove="Resources\Images\Png\export.png" />
+    <None Remove="Resources\Images\Png\helper.png" />
+    <None Remove="Resources\Images\Png\history.png" />
+    <None Remove="Resources\Images\Png\import.png" />
+    <None Remove="Resources\Images\Png\loop.png" />
+    <None Remove="Resources\Images\Png\minus.png" />
+    <None Remove="Resources\Images\Png\movedown.png" />
+    <None Remove="Resources\Images\Png\moveup.png" />
+    <None Remove="Resources\Images\Png\pause.png" />
+    <None Remove="Resources\Images\Png\pause_red.png" />
+    <None Remove="Resources\Images\Png\pause_red1.png" />
+    <None Remove="Resources\Images\Png\Refreshment.png" />
+    <None Remove="Resources\Images\Png\retart.png" />
+    <None Remove="Resources\Images\Png\right.png" />
+    <None Remove="Resources\Images\Png\select.png" />
+    <None Remove="Resources\Images\Png\single.png" />
+    <None Remove="Resources\Images\Png\start1.png" />
+    <None Remove="Resources\Images\Png\start_exe.png" />
+    <None Remove="Resources\Images\Png\start_work.png" />
+    <None Remove="Resources\Images\Png\stop.png" />
+    <None Remove="Resources\Images\Png\stop1.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <COMReference Include="UIA.dll">
+      <Guid>930299ce-9965-4dec-b0f4-a54848d4b667</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Lcid>0</Lcid>
+      <Isolated>false</Isolated>
+    </COMReference>
+    <COMReference Include="UIAutomationClient.dll">
+      <Guid>944de083-8fb8-45cf-bcb7-c477acb2f897</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Lcid>0</Lcid>
+      <Isolated>false</Isolated>
+    </COMReference>
+    <COMReference Include="UIAutomationBlockingCoreLib.dll">
+      <Guid>ea39b853-5769-4937-8ece-736de4f469bc</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Lcid>0</Lcid>
+      <Isolated>false</Isolated>
+    </COMReference>
+    <COMReference Include="UIAutomationCrossBitnessHookLib.dll">
+      <Guid>8acc2016-04a3-4343-b8e1-1870e35d6a41</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Lcid>0</Lcid>
+      <Isolated>false</Isolated>
+    </COMReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="HandyControl" Version="2.5.0.2" />
+    <PackageReference Include="Hardcodet.NotifyIcon.Wpf.NetCore" Version="1.0.11" />
+    <PackageReference Include="NLog" Version="4.7.2" />
+    <PackageReference Include="Prism.Unity" Version="7.2.0.1422" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resources\Files\ControlList.xml" />
+    <Resource Include="Resources\Images\Ico\logo.ico" />
+    <Resource Include="Resources\Images\LeftMainContent\Animation_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\BorderElement_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\brackets_Square_16xLG.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\Brush_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\Bubble_16xLG.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\ButtonClick_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\ButtonGroup_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\Calendar_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\Carousel_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\CheckBox_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\ColorPalette_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\ColorWheel_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\ComboBox_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\ContextMenu_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\DataGenerator_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\DataGrid_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\DatePicker_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\DetailDataView_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\Dialog_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\DotLarge_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\DottedSplitter_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\Dynamic_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\Effects_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\Ellipsis_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\Expander_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\FlipVertical_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\Flow_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\frame_16xLG.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\GoToTop_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\GridPane_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\GroupBox_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\HandyControl.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\HoverMenu_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\ImageBrowser_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\ImageStack_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\Label_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\LinearCarousel_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\ListBox_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\ListView_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\Loading_Blue_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\MainMenuControl_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\Message_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\Mouse.png" />
+    <Resource Include="Resources\Images\LeftMainContent\NotificationHub_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\NumericListBox_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\OutlinedRectangleTool_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\Paginator_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\Panel_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\PasswordBox_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\Path_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\PolygonHexagon_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\PopupCursor_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\Procedure_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\ProgressBar_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\ProgressButton_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\RadioButton_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\RepeatButton_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\RichTextBox_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\ScrollBox_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\Search_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\Shield_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\Slider_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\SortAscending_grey_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\SplitButton_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\SplitterControl_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\Star.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\TabPage_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\Tag_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\TextBlock_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\TextBox_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\thumbs_up.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\Timeline_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\TimePicker_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\Time_color_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\Toggle_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\ToolBar_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\Transfer_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\TransformRelative_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\TransitioningContentControl_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\TreeView_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\User_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\View_Portrait_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\VSO_Card_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\WindowScreenshot_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\WindowsForm_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\LeftMainContent\WPFFlowDocument_16x.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Images\Png\aboutUs.png" />
+    <Resource Include="Resources\Images\Png\add.png" />
+    <Resource Include="Resources\Images\Png\continue.png" />
+    <Resource Include="Resources\Images\Png\edit.png" />
+    <Resource Include="Resources\Images\Png\edit1.png" />
+    <Resource Include="Resources\Images\Png\edit2.png" />
+    <Resource Include="Resources\Images\Png\error.png" />
+    <Resource Include="Resources\Images\Png\exit.png" />
+    <Resource Include="Resources\Images\Png\export.png" />
+    <Resource Include="Resources\Images\Png\helper.png" />
+    <Resource Include="Resources\Images\Png\history.png" />
+    <Resource Include="Resources\Images\Png\import.png" />
+    <Resource Include="Resources\Images\Png\loop.png" />
+    <Resource Include="Resources\Images\Png\minus.png" />
+    <Resource Include="Resources\Images\Png\movedown.png" />
+    <Resource Include="Resources\Images\Png\pause.png" />
+    <Resource Include="Resources\Images\Png\pause_red.png" />
+    <Resource Include="Resources\Images\Png\pause_red1.png" />
+    <Resource Include="Resources\Images\Png\Refreshment.png" />
+    <Resource Include="Resources\Images\Png\retart.png" />
+    <Resource Include="Resources\Images\Png\right.png" />
+    <Resource Include="Resources\Images\Png\select.png" />
+    <Resource Include="Resources\Images\Png\single.png" />
+    <Resource Include="Resources\Images\Png\stop.png" />
+    <Resource Include="Resources\Images\Png\start1.png" />
+    <Resource Include="Resources\Images\Png\start_exe.png" />
+    <Resource Include="Resources\Images\Png\start_work.png" />
+    <Resource Include="Resources\Images\Png\stop1.png" />
+    <Resource Include="Resources\Images\Png\moveup.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="NLog.config">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

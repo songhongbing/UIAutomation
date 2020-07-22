@@ -1,0 +1,15 @@
+Log file created at: 2020/07/03 11:39:03
+Running on machine: DESKTOP-TDHUO65
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0703 11:39:03.112367 19340 cpptime.cpp:20] Timer inited 
+I0703 11:39:03.119369  3396 cpptime.cpp:96] Timer thread started..
+I0703 11:39:03.133366  9552 RenderUnigine.cpp:547] RenderMainLoop starting...
+I0703 11:39:04.063369  9552 AppNodeData.h:33] AppNodeData created
+I0703 11:39:04.116369 19340 GrpcService.cpp:27] GrpcServiceMainLoop started.
+I0703 11:39:04.116369 19340 RenderUnigine.cpp:605] waitRenderThread ...
+I0703 11:39:04.138370 13204 RenderUnigine.cpp:683] TimeFunc thread entered...
+I0703 11:39:04.168367  1780 GrpcService.cpp:49] Grpc Thread : Server listening on 0.0.0.0:50051
+I0703 11:39:07.910367  9552 RenderUnigine.cpp:576] RenderMainLoop unigine isdone() 
+I0703 11:39:07.929368  9552 RenderUnigine.cpp:578] shutdownSubject.fire()  done! 
+I0703 11:39:07.929368  9552 RenderUnigine.cpp:580] RenderMainLoop thread closed.
+I0703 11:39:07.932369 19340 RenderUnigine.cpp:611] waitRenderThread done!

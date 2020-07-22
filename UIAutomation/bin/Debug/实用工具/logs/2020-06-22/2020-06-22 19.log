@@ -1,0 +1,33 @@
+2020-06-22 19:22:01.1329|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|124|0001:UIAutomation|1.0.0.0|1||开始执行测试 
+2020-06-22 19:22:01.2079|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomation1|174|0001:UIAutomation|1.0.0.0|12||任务步骤执行失败 System.InvalidProgramException: Target window is not existing.try #1
+
+ ---> System.ComponentModel.Win32Exception (5): 拒绝访问。
+   at System.Diagnostics.ProcessManager.OpenProcess(Int32 processId, Int32 access, Boolean throwIfExited)
+   at System.Diagnostics.Process.GetProcessHandle(Int32 access, Boolean throwIfExited)
+   at System.Diagnostics.Process.GetOrOpenProcessHandle()
+   at System.Diagnostics.Process.get_Handle()
+   at UIAutomation.Common.AutomationHelper.FindWindowByProcessId(Int32 processId) in D:\testspace\UIAutomation\UIAutomation\Common\AutomationHelper.cs:line 37
+   --- End of inner exception stack trace ---
+   at UIAutomation.Common.AutomationHelper.FindWindowByProcessId(Int32 processId) in D:\testspace\UIAutomation\UIAutomation\Common\AutomationHelper.cs:line 45
+   at UIAutomation.Common.AutomationHelper.FindElementById(Int32 procrssid, String automationId) in D:\testspace\UIAutomation\UIAutomation\Common\AutomationHelper.cs:line 58
+   at UIAutomation.Common.AutomationFactory.Button_Automation_Task(AutomationModel automation) in D:\testspace\UIAutomation\UIAutomation\Common\AutomationFactory.cs:line 68
+   at UIAutomation.Common.AutomationFactory.ExecuteAutomationTask(AutomationModel automation) in D:\testspace\UIAutomation\UIAutomation\Common\AutomationFactory.cs:line 46
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomation1() in D:\testspace\UIAutomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 174
+2020-06-22 19:22:08.4007|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|130|0001:UIAutomation|1.0.0.0|1||结束执行测试 
+2020-06-22 19:22:08.8619|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|124|0001:UIAutomation|1.0.0.0|1||开始执行测试 
+2020-06-22 19:22:20.6573|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomation1|174|0001:UIAutomation|1.0.0.0|14||任务步骤执行失败 System.InvalidProgramException: Target window is not existing.try #1
+
+ ---> System.ComponentModel.Win32Exception (5): 拒绝访问。
+   at System.Diagnostics.ProcessManager.OpenProcess(Int32 processId, Int32 access, Boolean throwIfExited)
+   at System.Diagnostics.Process.GetProcessHandle(Int32 access, Boolean throwIfExited)
+   at System.Diagnostics.Process.GetOrOpenProcessHandle()
+   at System.Diagnostics.Process.get_Handle()
+   at UIAutomation.Common.AutomationHelper.FindWindowByProcessId(Int32 processId) in D:\testspace\UIAutomation\UIAutomation\Common\AutomationHelper.cs:line 37
+   --- End of inner exception stack trace ---
+   at UIAutomation.Common.AutomationHelper.FindWindowByProcessId(Int32 processId) in D:\testspace\UIAutomation\UIAutomation\Common\AutomationHelper.cs:line 45
+   at UIAutomation.Common.AutomationHelper.FindElementById(Int32 procrssid, String automationId) in D:\testspace\UIAutomation\UIAutomation\Common\AutomationHelper.cs:line 58
+   at UIAutomation.Common.AutomationFactory.Button_Automation_Task(AutomationModel automation) in D:\testspace\UIAutomation\UIAutomation\Common\AutomationFactory.cs:line 68
+   at UIAutomation.Common.AutomationFactory.ExecuteAutomationTask(AutomationModel automation) in D:\testspace\UIAutomation\UIAutomation\Common\AutomationFactory.cs:line 46
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomation1() in D:\testspace\UIAutomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 174
+2020-06-22 19:22:22.8631|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|130|0001:UIAutomation|1.0.0.0|1||结束执行测试 
+2020-06-22 19:22:23.2633|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|124|0001:UIAutomation|1.0.0.0|1||开始执行测试 

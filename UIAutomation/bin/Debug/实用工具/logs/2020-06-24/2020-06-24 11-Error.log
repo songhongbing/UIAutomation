@@ -1,0 +1,46 @@
+2020-06-24 11:18:03.5143|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomation1|174|0001:UIAutomation|1.0.0.0|12||任务步骤执行失败 System.InvalidProgramException: Target window is not existing.try #0
+
+ ---> System.Windows.Automation.ElementNotAvailableException: 无法识别的错误。
+   at MS.Internal.Automation.UiaCoreApi.CheckError(Int32 hr)
+   at MS.Internal.Automation.UiaCoreApi.UiaGetUpdatedCache(SafeNodeHandle hnode, UiaCacheRequest request, NormalizeState normalize, Condition customCondition)
+   at System.Windows.Automation.AutomationElement.FromHandle(IntPtr hwnd)
+   at UIAutomation.Common.AutomationHelper.FindWindowByProcessId(Process process) in D:\testspace\UIAutomation\UIAutomation\Common\AutomationHelper.cs:line 42
+   --- End of inner exception stack trace ---
+   at UIAutomation.Common.AutomationHelper.FindWindowByProcessId(Process process) in D:\testspace\UIAutomation\UIAutomation\Common\AutomationHelper.cs:line 49
+   at UIAutomation.Common.AutomationHelper.FindElementById(Process process, String automationId) in D:\testspace\UIAutomation\UIAutomation\Common\AutomationHelper.cs:line 25
+   at UIAutomation.Common.AutomationFactory.ExecuteAutomationTask(AutomationModel automation) in D:\testspace\UIAutomation\UIAutomation\Common\AutomationFactory.cs:line 40
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomation1() in D:\testspace\UIAutomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 174
+2020-06-24 11:19:06.8917|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomation1|183|0001:UIAutomation|1.0.0.0|13||任务步骤执行失败 System.Threading.ThreadInterruptedException: Thread was interrupted from a waiting state.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomation1() in D:\testspace\UIAutomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 183
+2020-06-24 11:27:51.3683|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomation1|183|0001:UIAutomation|1.0.0.0|15||任务步骤执行失败 System.Threading.ThreadInterruptedException: Thread was interrupted from a waiting state.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomation1() in D:\testspace\UIAutomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 183
+2020-06-24 11:27:51.7972|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomation1|174|0001:UIAutomation|1.0.0.0|16||任务步骤执行失败 System.Windows.Automation.ElementNotAvailableException: 无法识别的错误。
+   at MS.Internal.Automation.UiaCoreApi.CheckError(Int32 hr)
+   at MS.Internal.Automation.UiaCoreApi.UiaFind(SafeNodeHandle hnode, UiaFindParams findParams, Condition findCondition, UiaCacheRequest request)
+   at System.Windows.Automation.AutomationElement.Find(TreeScope scope, Condition condition, UiaCacheRequest request, Boolean findFirst, BackgroundWorker worker)
+   at System.Windows.Automation.AutomationElement.FindFirst(TreeScope scope, Condition condition)
+   at UIAutomation.Common.AutomationHelper.FindElementById(Process process, String automationId) in D:\testspace\UIAutomation\UIAutomation\Common\AutomationHelper.cs:line 26
+   at UIAutomation.Common.AutomationFactory.ExecuteAutomationTask(AutomationModel automation) in D:\testspace\UIAutomation\UIAutomation\Common\AutomationFactory.cs:line 40
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomation1() in D:\testspace\UIAutomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 174
+2020-06-24 11:31:15.1387|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomation1|174|0001:UIAutomation|1.0.0.0|13||任务步骤执行失败 System.InvalidProgramException: Target window is not existing.try #0
+
+ ---> System.Windows.Automation.ElementNotAvailableException: 无法识别的错误。
+   at MS.Internal.Automation.UiaCoreApi.CheckError(Int32 hr)
+   at MS.Internal.Automation.UiaCoreApi.UiaGetUpdatedCache(SafeNodeHandle hnode, UiaCacheRequest request, NormalizeState normalize, Condition customCondition)
+   at System.Windows.Automation.AutomationElement.FromHandle(IntPtr hwnd)
+   at UIAutomation.Common.AutomationHelper.FindWindowByProcessId(Process process) in D:\testspace\UIAutomation\UIAutomation\Common\AutomationHelper.cs:line 42
+   --- End of inner exception stack trace ---
+   at UIAutomation.Common.AutomationHelper.FindWindowByProcessId(Process process) in D:\testspace\UIAutomation\UIAutomation\Common\AutomationHelper.cs:line 49
+   at UIAutomation.Common.AutomationHelper.FindElementById(Process process, String automationId) in D:\testspace\UIAutomation\UIAutomation\Common\AutomationHelper.cs:line 25
+   at UIAutomation.Common.AutomationFactory.ExecuteAutomationTask(AutomationModel automation) in D:\testspace\UIAutomation\UIAutomation\Common\AutomationFactory.cs:line 40
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomation1() in D:\testspace\UIAutomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 174
+2020-06-24 11:31:30.7886|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomation1|174|0001:UIAutomation|1.0.0.0|15||任务步骤执行失败 System.Threading.ThreadInterruptedException: Thread was interrupted from a waiting state.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at UIAutomation.Common.AutomationHelper.SetSelectedComboBoxItem(AutomationElement comboBox, String item) in D:\testspace\UIAutomation\UIAutomation\Common\AutomationHelper.cs:line 246
+   at UIAutomation.Common.AutomationFactory.ExecuteAutomationTask(AutomationModel automation) in D:\testspace\UIAutomation\UIAutomation\Common\AutomationFactory.cs:line 61
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomation1() in D:\testspace\UIAutomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 174

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Controls>
+	<Control Name="Button" Path="/UIAutomation;component/Resources/Images/LeftMainContent/ButtonClick_16x.png"> 
+		<EventName Name="Click" IsSetValue="False"/>
+	</Control>
+	<Control Name="ToggleButton" Path="/UIAutomation;component/Resources/Images/LeftMainContent/Toggle_16x.png">
+		<EventName Name="Click" IsSetValue="False"/>
+	</Control>
+	<Control Name="TextBox" Path="/UIAutomation;component/Resources/Images/LeftMainContent/TextBox_16x.png">
+		<EventName Name="Text" IsSetValue="True"/>
+	</Control>
+	<Control Name="MessageBox" Path="/UIAutomation;component/Resources/Images/LeftMainContent/Message_16x.png">
+		<EventName Name="Click" IsSetValue="False"/>
+	</Control>
+	<Control Name="CheckBox" Path="/UIAutomation;component/Resources/Images/LeftMainContent/CheckBox_16x.png">
+		<EventName Name="Select" IsSetValue="True"/>
+	</Control>
+	<Control Name="ComboBox" Path="/UIAutomation;component/Resources/Images/LeftMainContent/ComboBox_16x.png">
+		<EventName Name="Select" IsSetValue="True"/>
+	</Control>
+	<Control Name="RadioButton" Path="/UIAutomation;component/Resources/Images/LeftMainContent/RadioButton_16x.png">
+		<EventName Name="Select" IsSetValue="True"/>
+	</Control>
+	<Control Name="DataGrid" Path="/UIAutomation;component/Resources/Images/LeftMainContent/DataGrid_16x.png">
+		<EventName Name="Select" IsSetValue="True"/>
+	</Control>
+	<Control Name="ListBox" Path="/UIAutomation;component/Resources/Images/LeftMainContent/ListBox_16x.png">
+		<EventName Name="Select" IsSetValue="True"/>
+	</Control>
+	<Control Name="ListView" Path="/UIAutomation;component/Resources/Images/LeftMainContent/ListView_16x.png">
+		<EventName Name="Select" IsSetValue="True"/>
+	</Control>
+	<Control Name="Slider" Path="/UIAutomation;component/Resources/Images/LeftMainContent/Slider_16x.png">
+		<EventName Name="Select" IsSetValue="True"/>
+	</Control>
+	<Control Name="ScrollViewer" Path="/UIAutomation;component/Resources/Images/LeftMainContent/ScrollBox_16x.png">
+		<EventName Name="Scroll" IsSetValue="False"/>
+	</Control>
+	<Control Name="Process" Path="/UIAutomation;component/Resources/Images/LeftMainContent/Flow_16x.png">
+		<EventName Name="Start" IsSetValue="False"/>
+		<EventName Name="Kill" IsSetValue="False"/>
+	</Control>
+	<Control Name="Mouse" Path="/UIAutomation;component/Resources/Images/LeftMainContent/Mouse.png">
+		<EventName Name="Click" IsSetValue="False"/>
+	</Control>
+</Controls>

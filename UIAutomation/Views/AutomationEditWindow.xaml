@@ -1,0 +1,39 @@
+﻿<Window x:Class="UIAutomation.Views.AutomationEditWindow"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:hc="https://handyorg.github.io/handycontrol"
+             xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+             xmlns:prism="http://prismlibrary.com/"      
+             xmlns:converter="clr-namespace:UIAutomation.Converter"
+             Name="win"
+             prism:ViewModelLocator.AutoWireViewModel="True"
+             WindowStartupLocation="CenterScreen"
+             Width="1200"  
+             Loaded="win_Loaded"
+             Closing="win_Closing"
+             ResizeMode="NoResize"
+             Title="数据编辑">
+    <Window.Resources>
+        <converter:XmlFormatConverter x:Key="XmlFormatConverter"/>
+        <converter:RichTextBoxConverter x:Key="RichTextBoxConverter"/>
+    </Window.Resources>
+    <hc:TransitioningContentControl>
+        <Grid Margin="5,5,5,5">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition Height="50"/>
+            </Grid.RowDefinitions>
+            <RichTextBox 
+                x:Name="TxtContent"
+                Margin="13,13,13,0"  
+                Height="640"
+                ScrollViewer.VerticalScrollBarVisibility="Auto"
+                AcceptsReturn="True" >
+            </RichTextBox>
+            <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button Content="取消" Margin="10,0,10,0" Width="100" Command="{Binding CloseCommand}"/>
+                <Button Content="保存" Margin="10,0,10,0" Width="100" Command="{Binding SaveFileCommand}" Style="{StaticResource ButtonPrimary}"/>
+            </StackPanel>
+        </Grid>
+    </hc:TransitioningContentControl>
+</Window>

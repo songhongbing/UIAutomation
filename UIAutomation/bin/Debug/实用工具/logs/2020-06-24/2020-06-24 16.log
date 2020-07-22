@@ -1,0 +1,58 @@
+2020-06-24 16:05:13.3710|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|150|0001:UIAutomation|1.0.0.0|1||开始执行测试 
+2020-06-24 16:05:49.2416|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|156|0001:UIAutomation|1.0.0.0|1||结束执行测试 
+2020-06-24 16:06:41.5835|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|150|0001:UIAutomation|1.0.0.0|1||开始执行测试 
+2020-06-24 16:06:46.7601|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|156|0001:UIAutomation|1.0.0.0|1||结束执行测试 
+2020-06-24 16:06:46.7766|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomation1|222|0001:UIAutomation|1.0.0.0|11||任务步骤执行失败 System.Threading.ThreadInterruptedException: Thread was interrupted from a waiting state.
+   at System.Threading.Monitor.ObjWait(Boolean exitContext, Int32 millisecondsTimeout, Object obj)
+   at System.Threading.ManualResetEventSlim.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at System.Threading.ManualResetEventSlim.Wait()
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomation1() in F:\宋红兵\UIAutoMation\UIAutomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 222
+2020-06-24 16:07:28.6846|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|150|0001:UIAutomation|1.0.0.0|1||开始执行测试 
+2020-06-24 16:07:32.1568|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|156|0001:UIAutomation|1.0.0.0|1||结束执行测试 
+2020-06-24 16:07:32.1882|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomation1|222|0001:UIAutomation|1.0.0.0|16||任务步骤执行失败 System.Threading.ThreadInterruptedException: Thread was interrupted from a waiting state.
+   at System.Threading.Monitor.ObjWait(Boolean exitContext, Int32 millisecondsTimeout, Object obj)
+   at System.Threading.ManualResetEventSlim.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at System.Threading.ManualResetEventSlim.Wait()
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomation1() in F:\宋红兵\UIAutoMation\UIAutomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 222
+2020-06-24 16:07:33.6528|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|150|0001:UIAutomation|1.0.0.0|1||开始执行测试 
+2020-06-24 16:07:36.4610|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|156|0001:UIAutomation|1.0.0.0|1||结束执行测试 
+2020-06-24 16:07:36.4919|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomation1|222|0001:UIAutomation|1.0.0.0|20||任务步骤执行失败 System.Threading.ThreadInterruptedException: Thread was interrupted from a waiting state.
+   at System.Threading.Monitor.ObjWait(Boolean exitContext, Int32 millisecondsTimeout, Object obj)
+   at System.Threading.ManualResetEventSlim.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at System.Threading.ManualResetEventSlim.Wait()
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomation1() in F:\宋红兵\UIAutoMation\UIAutomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 222
+2020-06-24 16:07:45.3261|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|150|0001:UIAutomation|1.0.0.0|1||开始执行测试 
+2020-06-24 16:09:28.6978|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|156|0001:UIAutomation|1.0.0.0|1||结束执行测试 
+2020-06-24 16:09:28.7280|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomation1|222|0001:UIAutomation|1.0.0.0|21||任务步骤执行失败 System.Threading.ThreadInterruptedException: Thread was interrupted from a waiting state.
+   at System.Threading.Monitor.ObjWait(Boolean exitContext, Int32 millisecondsTimeout, Object obj)
+   at System.Threading.ManualResetEventSlim.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at System.Threading.ManualResetEventSlim.Wait()
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomation1() in F:\宋红兵\UIAutoMation\UIAutomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 222
+2020-06-24 16:09:29.9456|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|150|0001:UIAutomation|1.0.0.0|1||开始执行测试 
+2020-06-24 16:09:38.8752|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|156|0001:UIAutomation|1.0.0.0|1||结束执行测试 
+2020-06-24 16:09:38.9055|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomation1|222|0001:UIAutomation|1.0.0.0|17||任务步骤执行失败 System.Threading.ThreadInterruptedException: Thread was interrupted from a waiting state.
+   at System.Threading.Monitor.ObjWait(Boolean exitContext, Int32 millisecondsTimeout, Object obj)
+   at System.Threading.ManualResetEventSlim.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at System.Threading.ManualResetEventSlim.Wait()
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomation1() in F:\宋红兵\UIAutoMation\UIAutomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 222
+2020-06-24 16:09:39.3387|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|150|0001:UIAutomation|1.0.0.0|1||开始执行测试 
+2020-06-24 16:13:15.2076|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|150|0001:UIAutomation|1.0.0.0|1||开始执行测试 
+2020-06-24 16:34:16.3871|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|150|0001:UIAutomation|1.0.0.0|1||开始执行测试 
+2020-06-24 16:40:46.8939|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|150|0001:UIAutomation|1.0.0.0|1||开始执行测试 
+2020-06-24 16:41:40.0622|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|156|0001:UIAutomation|1.0.0.0|1||结束执行测试 
+2020-06-24 16:41:40.0754|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomation1|222|0001:UIAutomation|1.0.0.0|14||任务步骤执行失败 System.Threading.ThreadInterruptedException: Thread was interrupted from a waiting state.
+   at System.Threading.Monitor.ObjWait(Boolean exitContext, Int32 millisecondsTimeout, Object obj)
+   at System.Threading.ManualResetEventSlim.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at System.Threading.ManualResetEventSlim.Wait()
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomation1() in F:\宋红兵\UIAutoMation\UIAutomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 222
+2020-06-24 16:43:35.1667|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|150|0001:UIAutomation|1.0.0.0|1||开始执行测试 
+2020-06-24 16:46:20.2486|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|150|0001:UIAutomation|1.0.0.0|1||开始执行测试 
+2020-06-24 16:50:13.4212|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|156|0001:UIAutomation|1.0.0.0|1||结束执行测试 
+2020-06-24 16:50:13.4212|ERROR|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomation1|222|0001:UIAutomation|1.0.0.0|12||任务步骤执行失败 System.Threading.ThreadInterruptedException: Thread was interrupted from a waiting state.
+   at System.Threading.Monitor.ObjWait(Boolean exitContext, Int32 millisecondsTimeout, Object obj)
+   at System.Threading.ManualResetEventSlim.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at System.Threading.ManualResetEventSlim.Wait()
+   at UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomation1() in F:\宋红兵\UIAutoMation\UIAutomation\UIAutomation\ViewModels\MainAutomationControlViewModel.cs:line 222
+2020-06-24 16:50:15.3170|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|150|0001:UIAutomation|1.0.0.0|1||开始执行测试 
+2020-06-24 16:50:32.7639|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|150|0001:UIAutomation|1.0.0.0|1||开始执行测试 
+2020-06-24 16:53:47.6807|INFO|MainAutomationControlViewModel|UIAutomation.ViewModels.MainAutomationControlViewModel.ExecuteAutomationCommand|150|0001:UIAutomation|1.0.0.0|1||开始执行测试 
